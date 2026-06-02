@@ -1,39 +1,29 @@
-# Shoujo Ramune – English Translation Patch
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Jolly-Baron/.github/main/jollybaron.jpg" alt="Jolly-Baron logo" width="300" />
+  <h1>Shoujo Ramune – English Translation Patch</h1>
 
-[![Donate on Boosty](https://img.shields.io/badge/❤️_SUPPORT_ME_ON_BOOSTY-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://boosty.to/jollybaron/donate)
-
-**This is a fan-made English translation patch for the classic Japanese visual novel *Shoujo Ramune***  
-The patch contains only translated CSV files – no original game code, assets, or executables.
-
----
-
-## 📦 What's inside
-
-- `datascn.tac/` – folder with all translated game scripts (CSV files)
-- `NOTE.docx` – translator's notes and technical explanations
+  <a href="https://boosty.to/jollybaron/donate">
+    <img src="https://img.shields.io/badge/❤️_Support_on_Boosty-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Donate on Boosty">
+  </a>
+</div>
 
 ---
+
+## 📦 Patch contents
+
+- `datascn.tac/` – folder with translated game scripts (CSV files)
+- `NOTE.docx` – translator's notes and technical details
 
 ## 🎮 Installation
 
 1. **Own a legitimate copy** of the original Japanese *Shoujo Ramune*.
-2. Copy the `datascn.tac` folder into the game's installation directory, overwriting the existing folder. (Make a backup first if needed.)
-3. Launch the game – the text will appear in English.
+2. Copy the `datascn.tac` **folder** into the game's installation directory, replacing the existing `datascn.tac` file/folder (backup first).
+3. Launch the game – English text will appear.
 
-> If your game expects a single `datascn.tac` file rather than a folder, refer to `NOTE.docx` for details.
+> If the original game has a single file named `datascn.tac`, delete/rename it and create a folder with the same name, then place the CSV files inside.
 
----
+## ⚖️ Legality disclaimer
 
-## 📜 Credits
-
-Translation and patch by **Jolly Baron**
-
----
-
-## ⚖️ Legality & Disclaimer
-
-- This patch contains **only original translation work** – text CSV files.
-- It does **not** include any copyrighted game executables, images, music, or proprietary code.
-- **You must own a legal copy of the original Japanese game** to use this patch.
-- The original game and its assets belong to their respective copyright holders.
-- This fan translation is provided for personal, non-commercial use. No copyright infringement is intended.
+This patch contains **only original translation work** (CSV text files).  
+It does **not** include any game assets, executables, or copyrighted code.  
+You must own the original game. All rights belong to Tanuki Soft.
