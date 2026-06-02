@@ -1,0 +1,106 @@
+%name%,%bgm%,%bg%,%info%,%replace%
+stop_id_effect,,,ID付きエフェクト全般停止（１～９まで全部）,<stop id=""1""><stop id=""2""><stop id=""3""><stop id=""4""><stop id=""5""><stop id=""6""><stop id=""7""><stop id=""8""><stop id=""9"">
+<se_stop id=""ID"" fadeout=""フェード時間"">,,,【テンプレート】ID付きSE停止,
+<se_stop id=""1"" fadeout=""2000"">,,,ID=1 のSEを停止,
+,,,―――――――――――――――― ラベル冒頭 ――――――――――――――――,
+Lbegin_morning,,,：一日の始まり（朝・起床）,<macro label=""Lbegin_morning"">
+Lbegin_day_change,,,：前のラベルから日をまたいだ次のシーン,<macro label=""Lbegin_day_change"">
+Lbegin_scene_change,,,：前のラベルから日をまたがず次のシーン,<macro label=""Lbegin_scene_change"">
+Lbegin_move,,,：前のラベルから場所を移動してきた,<macro label=""Lbegin_move"">
+Lbegin_continue,,,：前のラベルからそのまま継続（特にエフェクトなし）,
+,,,―――――――――――――――― ラベル末尾 ――――――――――――――――,
+Lend_night,0,9000,：一日の終わり（夜・就寝）,<hide><macro label=""Lend_night"">
+Lend_day_change,0,9000,：次のラベルは日をまたぐ（この日はこれでおしまい）,<hide><macro label=""Lend_day_change"">
+Lend_scene_change,0,9001,：次のラベルは日をまたがない,<hide><macro label=""Lend_scene_change"">
+Lend_move,0,9000,：場所を移動して次のラベルへ,<hide><macro label=""Lend_move"">
+Lend_continue,,,：次のラベルへそのまま継続（特にエフェクト無し）,
+,,,――――――――――― ラベル中・シーン切り替え ―――――――――――――――――――――,
+scene_charchange,,,：人物変更（主人公視点→ヒロイン視点）,<hide><macro label=""scene_charchange"">
+scene_past_begin,,,：回想開始（以前の話を思い出す,<macro label=""scene_past_begin"">
+scene_past_end,,,：回想終了,<macro label=""scene_past_end"">
+scene_h_begin,,,：エロシーン開始,<hide><macro label=""scene_h_begin"">
+scene_h_end,,,：エロシーン終了,<hide><macro label=""scene_h_end"">
+,,,――――――――――― ラベル中・場所移動（進む・目的地へ移動） ―――――――――――――――――――――,
+move_veryshort,,,：最短（部屋の中でのちょっとした移動・または移動せずに視線だけ移動）,<macro label=""move_veryshort"">
+move_short,,,：短（ドアをくぐる程度）,<macro label=""move_short"">
+move_middle,,,：中（エリア内での移動。建物内移動とか外→内とか）,<macro label=""move_middle"">
+move_long,,,：大（エリアをまたぐ本格的な場所移動）,<macro label=""move_long"">
+,,,――――――――――― ラベル中・場所移動（戻る・帰る） ―――――――――――――――――――――,
+move_short_r,,,：短（ドアをくぐる程度）,<macro label=""move_short_r"">
+move_middle_r,,,：中（エリア内での移動。建物内移動とか外→内とか）,<macro label=""move_middle_r"">
+move_long_r,,,：大（エリアをまたぐ本格的な場所移動）,<macro label=""move_long_r"">
+,,,――――――――――― ラベル中・時間変化 ―――――――――――――――――――――,
+timepass_quick,,,：最短（シーンが途切れない程度）,<macro label=""timepass_quick"">
+timepass_short,,,：短（シーンにワンテンポ間が空く程度）,<macro label=""timepass_short"">
+timepass_middle,,,：中（シーンが一度区切られる程度）,<macro label=""timepass_middle"">
+timepass_bgchange,,,：背景時間変化（背景の時間帯が変わる。昼→夜など）,<macro label=""timepass_bgchange"">
+timepass_day_short,,,：日付も変わる - 短（次の日）,<macro label=""timepass_day_short"">
+timepass_day_long,,,：日付も変わる - 長（数日後）,<macro label=""timepass_day_long"">
+,,,―――――――――――――――― その他エフェクト ――――――――――――――――,
+ef_shasei_l,,,射精・絶頂フラッシュ（強。2回フラッシュ）,<se file=""shasei""><macro label=""ef_shasei_l"">
+ef_shasei,,,射精・絶頂フラッシュ（弱ｌ。1回ショートフラッシュ）,<se file=""shasei""><macro label=""ef_shasei"">
+ef_shasei_tokusyu,,,射精・フラッシュなしバージョン。先から精液でるだけ,<se file=""shasei"">
+ef_flash_l,,,絶頂フラッシュ（強。2回フラッシュ） ※射精音なし,<macro label=""ef_shasei_l"">
+ef_flash,,,絶頂フラッシュ（弱ｌ。1回ショートフラッシュ）　※射精音なし,<macro label=""ef_shasei"">
+,,,―――――――――――――――― 肉体系エフェクト ――――――――――――――――,
+"<shake id=""必要ならID"" target=""対象"" time=""時間,減衰時間"" x=""振幅,周期,開始時間"" y=""振幅,周期,開始時間"">",,,【テンプレート】：画面揺れ,
+ef_punch,,,殴る（SE・画面揺れ）,"<se file=""punch""><shake id=""0"" target=""sc"" time=""700,700"" x=""36,160,50"" y=""28,210,30"">"
+ef_punch_hard,,,強く殴る（SE・画面揺れ）,"<se file=""punch_hard""><shake id=""0"" target=""sc"" time=""700,700"" x=""40,220,0"" y=""65,170,30"">"
+ef_punch_comical,,,ポコンとコミケルに叩く（SE・画面揺れ）　（頭叩いたような縦揺れ）,"<se file=""punch_comical""><shake id=""0"" target=""sc"" time=""500,500"" x=""4,160,0"" y=-40,210,0"">"
+ef_kick,,,キック（SE・画面揺れ）,"<se file=""kick""><shake id=""0"" target=""sc"" time=""1000,1000"" x=""12,300,0"" y=""60,240,0"">"
+ef_bodyhit_fall_soft,,,人間同士衝突（ソフトな感じ）（SE・画面揺れ）,"<se file=""body_hit_soft""><shake target=""sc"" time=""1200,1200"" x=""4,200,0"" y=""80,160,0"">"
+ef_bodyfall_floor,,,床に倒れる・倒す（SE・画面揺れ）,"<se file=""body_fall_floor""><shake target=""sc"" time=""1200,1200"" x=""4,200,0"" y=""-80,160,0"">"
+ef_oshitaoshi,,,床に押し倒す（SE・画面揺れ）　ドサ・バサ,"<se file=""body_fall_mat""><shake id=""1"" target=""sc"" time=""600,600"" x=""5,180,0"" y=""-140,240,0"">"
+ef_binta,,,ビンタ（SE・画面揺れ）,"<se file=""binta""><shake target=""sc"" time=""500,500"" x=""90,230,0"" y=""7,110,0"">"
+ef_hit_zabuton,,,俺が座布団で叩かれる（SE・画面揺れ）,"<se file=""body_hit_soft""><shake target=""sc"" time=""500,500"" x=""-95,270,0"" y=""-8,140,0"">"
+ef_futon_dive,,,布団ダイブ系（SE・画面揺れ）,"<se file=""futon_dive""><shake id=""0"" target=""sc"" time=""600,600"" x=""20,240,0"" y=""80,-180,0"">"
+se_futon,,,布団をバサっとやるSE,<se file=""futon_gaba"">
+se_run_come,,,走ってくる（SE）　音がだんだん大きくなる（停止時はID=1）,<se id=""1"" file=""run_come"">
+se_run_go,,,走ってゆく（SE）　音がだんだん小さくなる（停止時はID=1）,<se id=""1"" file=""run_go"">
+,,,―――――――――――――――― SE・場所/時間系 ――――――――――――――――,
+se_inaka_semi,,,[loop] 田舎感ある野外SE：昼（セミ・大） （停止時はID=1）,<se_loop file=""env_semi_L"" id=""1"" fadein=""4000"">
+se_inaka_semi_M,,,[loop] 田舎感ある野外SE：昼（セミ・中） （停止時はID=1）,<se_loop file=""env_semi_M"" id=""1"" fadein=""4000"">
+se_inaka_semi_S,,,[loop] 田舎感ある野外SE：昼（セミ・小） （停止時はID=1）,<se_loop file=""env_semi_S"" id=""1"" fadein=""4000"">
+se_inaka_night,,,[loop] 田舎感ある野外SE：夜の虫 （停止時はID=1）,<se_loop file=""env_night_loop"" id=""1"" fadein=""4000"">
+se_inaka_river,,,[loop] 田舎感ある野外SE：川・渓流 （停止時はID=2） ※ID注意！,<se_loop file=""env_river_loop"" id=""2"" fadein=""5000"" fadeout=""4000"">
+,,,―――――――――――――――― SE・ドア系 ――――――――――――――――,
+se_door_entrance_open,,,玄関ドア開く,<se file=""door_entrance"">
+se_door_entrance_close,,,玄関ドア閉まる,<se file=""door_entrance_close"">
+se_door_room_open,,,住宅内ドア開く,<se file=""door_room_open"">
+se_door_room_open_hard,,,住宅内ドア開く（乱暴に）,<se file=""door_room_open_hard"">
+se_door_room_close,,,住宅内ドア閉める,<se file=""door_room_close"">
+se_door_room_close_hard,,,住宅内ドア閉める（乱暴に）,<se file=""door_room_close_hard"">
+se_door_apart_open,,,アパートのドア開く（木造アパート）,<se file=""door_apart_open"">
+se_chime_home,,,玄関チャイム,<se file=""chime_home"">
+se_window_open,,,窓開ける（サッシ）,<se file=""window_open"">
+se_door_bath_open,,,風呂場ドア開ける,<se file=""door_bath_open"">
+,,,―――――――――――――――― SE・水系 ――――――――――――――――,
+se_shower,,,シャワー音：直接聞く<ID=1>,<se id=""1"" file=""shower_int"">
+se_shower_ext,,,シャワーしてる：浴室外から聞く<ID=1>,<se id=""1"" file=""shower_ext"">
+se_bath_water1,,,湯船の水音(弱),<se file=""bathwater_small"">
+se_bath_water2,,,湯船の水音(中),<se file=""bathwater_mid"">
+se_bath_water3,,,湯船の水音(強),<se file=""bathwater_strong"">
+se_water_dive,,,水に飛び込むSE,<se file=""water_dive"">
+se_water_play1,,,水辺で遊ぶ水音１,<se file=""water_play1"">
+se_water_play2,,,水辺で遊ぶ水音２,<se file=""water_play2"">
+se_water_play3,,,水辺で遊ぶ水音３,<se file=""water_play3"">
+se_water_play4,,,水辺で遊ぶ水音４,<se file=""water_play4"">
+,,,―――――――――――――――― SE・エロ系 ――――――――――――――――,
+se_piss,,,放尿・汎用,<se file=""piss"">
+se_manko,,,エロ：クチュ音（短）,<se file=""manko1"">
+se_zipper,,,ズボンのチャック下ろす,<se file=""zipper"">
+se_vib_loop,,,[loop] ローターのヴヴヴ音 (停止時はID=1),<se_loop file=""vib_loop"" id=""1"" fadein=""100"" fadeout=""300"">
+se_vib_loop2,,,[loop] ローターのヴヴヴ音２ (停止時はID=1)　くぐもった感じ　挿入済とかで使用,<se_loop file=""vib_loop2"" id=""1"" fadein=""100"" fadeout=""300"">
+,,,―――――――――――――――― SE・その他単発 ――――――――――――――――,
+se_phone_ring,,,固定電話着信音 （停止時はID=1）,<se file=""phone_ring"" id=""1"">
+se_phone_call,,,電話コール音　（停止時はID=1）,<se file=""phone_call"" id=""1"">
+se_phone_connect,,,電話接続音　ついでにID=1の効果音を停止,<se_stop id=""1"" fadeout=""80""><se file=""phone_connect"">
+se_keitai_ring,,,主人公携帯着信音 （停止時はID=1）,<se file=""keitai_ring"" id=""1"">
+se_keitai_vibe,,,主人公携帯着信（バイブモード） （停止時はID=1）,<se file=""keitai_vibe"" id=""1"">
+se_keitai_mail,,,主人公メール着信音 （停止時はID=1）,<se file=""keitai_mail"" id=""1"">
+se_keitai_pi,,,携帯操作音（ピ）　ついでにID=1の効果音を停止,<se_stop id=""1"" fadeout=""80""><se file=""keitai_pi"">
+se_shutter_digital,,,シャッター音：デジカメ（スマホ含む）,<se file=""camera_digital"">
+se_shutter_digital2,,,シャッター音　×２回：デジカメ（スマホ含む）,<se file=""camera_digital2"">
+se_shutter_digital_multi,,,連続シャッター音：デジカメ（スマホ含む）,<se file=""camera_digital_multi"">
+se_coins,,,小銭の音　チャリン（お金払ったりとか渡したりとか）,<se file=""coins"">
+
