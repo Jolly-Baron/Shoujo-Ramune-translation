@@ -11,12 +11,12 @@
 
 ## 📦 Patch contents
 
-- `datascn.tac/` – folder with translated game scripts (CSV files)
-- `NOTE.docx` – translator's notes and technical details
+* `datascn.tac/` – folder with translated game scripts (CSV files)
+* `NOTE.docx` – translator's notes and technical details
 
 ## 🎮 Installation
 
-1. **Own a legitimate copy** of the original Japanese *Shoujo Ramune*.
+1. **Own a legitimate copy** of the original Japanese _Shoujo Ramune_.
 2. Copy the `datascn.tac` **folder** into the game's installation directory, replacing the existing `datascn.tac` file/folder (backup first).
 3. Launch the game – English text will appear.
 
