@@ -22,6 +22,10 @@
 
 > If the original game has a single file named `datascn.tac`, delete/rename it and create a folder with the same name, then place the CSV files inside.
 
+## 📦 Download
+
+Go to the [Releases](https://github.com/Jolly-Baron/Shoujo-Ramune-translation/releases) page and download the `Source code.zip` file – it contains only the patch files.
+
 ## ⚖️ Legality disclaimer
 
 This patch contains **only original translation work** (CSV text files).  
