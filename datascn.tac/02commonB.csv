@@ -40,15 +40,15 @@
 14500 ,,,,,,,,,,,,,chie,,24,,,,,"Yeah, yeah, and chichan nodded seriously with a grave expression. Every time she shook her head, the smell of shampoo and sweat tickled her nostrils."
 14600 ,,,,,,,,,,,,,chie,,24,,,,,Ahh... this smell is no good. My reason might just fly away!
 14800 ,,,5,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,009_CB03_k_000.wav,,,,,,,,,,,"Chi-chan, ojisan, are you there?"
-14900 ,,,,,,,,,,,,,,,,,,,,The door creaked open. Standing in front of the store was Komako-chan. Next to her was Amanohana-chan as well.
+14900 ,,,,,,,,,,,,,,,,,,,,The door creaked open. Standing in front of the store was Komako-chan. Next to her was Tenka-chan as well.
 15000 ,,,,,,,“[‰Ô,“[‰Ô,009_CB03_t_000.wav,"komako,privateB",,0,,,,"tenka,privateB",,"23,,'Wow, I really started working part-time!'"
 15100 ,,,,,,,çŒb,çŒb,009_CB03_c_014.wav,komako,,0,"chie,private",,4,tenka,,23,",How do you know that?!"
 15200 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,009_CB03_k_001.wav,komako,,0,chie,,4,tenka,,23,,"I heard it from Chi-chan's mom. When I went to her house, Chi-chan wasn't there."
-15300 ,,,,,,,çŒb,çŒb,009_CB03_c_015.wav,komako,,0,chie,,23,tenka,,23,,"Oh, right! Komachan and Amanohana-chan, sorry. Chichan is working part-time at Ojisan's candy shop during the summer vacation."
+15300 ,,,,,,,çŒb,çŒb,009_CB03_c_015.wav,komako,,0,chie,,23,tenka,,23,,"Oh, right! Komachan and Tenka-chan, sorry. Chichan is working part-time at Ojisan's candy shop during the summer vacation."
 15400 ,,,,,,,ålŒö,ƒ–¼„,,komako,,0,chie,,23,tenka,,23,,"Good morning to both of you. Sorry to interrupt while you're having fun, but we're currently preparing for opening."
 15500 ,,,,,,,“[‰Ô,“[‰Ô,009_CB03_t_001.wav,komako,,0,chie,,23,tenka,,17,,"Well, if we leave it like this, we won't be able to open the store, will we?"
 15600 ,,,,,,,çŒb,çŒb,009_CB03_c_016.wav,komako,,0,chie,,5,tenka,,17,,"W-Well, this is... kinda a failure, you know?"
-15700 ,,,,,,,,,,komako,,0,chie,,5,tenka,,17,,Chi-chan hurriedly gathered the products. Amanohana-chan sighed in exasperation.
+15700 ,,,,,,,,,,komako,,0,chie,,5,tenka,,17,,Chi-chan hurriedly gathered the products. Tenka-chan sighed in exasperation.
 15800 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,009_CB03_k_002.wav,komako,,27,chie,,5,tenka,,17,,"Cheer up, Chi-chan!"
 15900 ,,,,,,,çŒb,çŒb,009_CB03_c_017.wav,komako,,27,chie,,21,tenka,,17,,"Yeah, let's do our best! If we don't work hard, there's no point in starting this part-time job!"
 16000 ,,,,,,,,,,,,,,,,,,,,Chii-chan is holding snacks and toys in both hands and returning to her original position.
@@ -58,7 +58,7 @@
 16400 ,,,,,,,“[‰Ô,“[‰Ô,009_CB03_t_002.wav,,,,,,,"tenkaL,privateB",,3,",'Hey, mister. Can't we do part-time jobs?'"
 16500 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,"tenkaL,privateB",,3,",'Of course, okay... no, no, that's not it. It's definitely not okay.'"
 16600 ,,,,,,,,,,,,,,,,"tenkaL,privateB",,3,",'I almost reflexively say ''Okay'' to the sudden proposal.'"
-16700 ,,,,,,,,,,,,,,,,"tenkaL,privateB",,3,",I somehow managed to use my reason and rejected the sweet proposal from Amanohana-chan."
+16700 ,,,,,,,,,,,,,,,,"tenkaL,privateB",,3,",I somehow managed to use my reason and rejected the sweet proposal from Tenka-chan."
 16800 ,,,,,,,“[‰Ô,“[‰Ô,009_CB03_t_003.wav,,,,,,,"tenkaL,privateB",,30,",Why? I also want to work part-time and earn some pocket money!"
 16900 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,009_CB03_k_003.wav,"komakoL,privateB",,27,,,,"tenkaL,privateB",,"30,,I also want to work part-time with Chi-chan."
 17000 ,,,,,,,,,,"komakoL,privateB",,27,,,,"tenkaL,privateB",,"30,,Komako-chan also seems eager. The two of them stare at me seriously with intense expressions."
@@ -66,9 +66,9 @@
 17200 ,,,,,,,,,,"komakoL,privateB",,27,,,,"tenkaL,privateB",,"30,,'But when three people gather, various things become difficult to do.'"
 17300 ,,,,,,,,,,"komakoL,privateB",,27,,,,"tenkaL,privateB",,"30,,'And besides, if it comes to working part-time, you can't really avoid telling your parents.'"
 17400 ,,,,,,,,,,"komakoL,privateB",,27,,,,"tenkaL,privateB",,"30,,'In the case of Chi-chan, there's the noble excuse of ''paying back the money for shoplifting,'' so it's still okay.'"
-17500 ,,,,,,,,,,"komakoL,privateB",,27,,,,"tenkaL,privateB",,"30,,You might think that hiring Komako-chan or Amanohana-chan for part-time work would make you a suspicious owner of a candy shop that's already on the watchlist."
+17500 ,,,,,,,,,,"komakoL,privateB",,27,,,,"tenkaL,privateB",,"30,,You might think that hiring Komako-chan or Tenka-chan for part-time work would make you a suspicious owner of a candy shop that's already on the watchlist."
 17600 ,,,,,,,ålŒö,ƒ–¼„,,"komakoL,privateB",,27,,,,"tenkaL,privateB",,"30,,'It can't be that way. Chichan really studied hard and begged me herself to learn how to earn money by working, so Uncle hired her as an intern.'"
-17700 ,,,,,,,ålŒö,ƒ–¼„,,"komakoL,privateB",,27,,,,"tenkaL,privateB",,"30,,Please tell Mom yourself?"
+17700 ,,,,,,,ålŒö,ƒ–¼„,,"komakoL,privateB",,27,,,,"tenkaL,privateB",,"30,,Please tell your Mom yourself?"
 17800 ,,,,,,,ålŒö,ƒ–¼„,,"komakoL,privateB",,27,,,,"tenkaL,privateB",,"30,,Did Amachan think about something like that?"
 17900 ,,,,,,,“[‰Ô,“[‰Ô,009_CB03_t_004.wav,,,,,,,tenka,,12,,"Ah~...... yeah. That's right, isn't it......"
 18000 ,,,,,,,,,,,,,,,,tenka,,12,,Amachan softened her words.
@@ -88,10 +88,10 @@
 19400 ,,,,,,,,,,,,,chie,,21,,,,,I pretended to stay calm and stroked chi-chan's head. Her fine and soft hair tangled around my fingers...!
 19500 ,,,,,,,ålŒö,ƒ–¼„,,,,,chie,,21,,,,,"Okay, let's go, Sachi-chan. We should open soon, so let's finish cleaning up quickly!"
 19600 ,,,,,,,çŒb,çŒb,009_CB03_c_021.wav,,,,chie,,0,,,,,Got it! I'll clean up quickly!
-19700 ,,,,,,,ålŒö,ƒ–¼„,,,,,chie,,0,,,,,Komako-chan and Amanohana-chan are taking it easy there.
+19700 ,,,,,,,ålŒö,ƒ–¼„,,,,,chie,,0,,,,,Komako-chan and Tenka-chan are taking it easy there.
 19800 ,,,,,,,çŒb,çŒb,009_CB03_c_022.wav,,,,chie,,5,,,,,Don't just eat the store's stuff without permission!
 19900 ,,,,,,,“[‰Ô,“[‰Ô,009_CB03_t_006.wav,,,,,,,tenka,,32,,Huh? I wouldn't do something like that.
-20000 ,,,,,,,,,,,,,,,,tenka,,32,,Komako-chan and Amanohana-chan are looking at each other with a puzzled expression.
+20000 ,,,,,,,,,,,,,,,,tenka,,32,,Komako-chan and Tenka-chan are looking at each other with a puzzled expression.
 20100 ,,,,,,,,,,,,,,,,tenka,,32,,"If you keep talking like that, you'll get caught for shoplifting!"
 20200 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,tenka,,32,,"Alright, so let's open up shop then!"
 20400 ,,<!timepass_middle>,7,,,,çŒb,çŒb,009_CB03_c_023.wav,komako,,0,"chie,private",,1,tenka,,0,",Thank you very much!"
@@ -121,7 +121,7 @@
 22800 ,,,,,,,ålŒö,ƒ–¼„,,,,,chie,,1,,,,,"Oh, but I should eat the bento too. Mom made it especially for me after all."
 22900 ,,,,,,,çŒb,çŒb,009_CB03_c_030.wav,,,,chie,,21,,,,,"Yeah, that's right. Then I'll go get it and come back!"
 23000 ,,,,,,,çŒb,çŒb,009_CB03_c_031.wav,,,,chie,,20,,,,,"Komachan and Tenkachan, let's eat together! Is that okay with you, uncle?"
-23100 ,,,,,,,ålŒö,ƒ–¼„,,,,,chie,,20,,,,,"Well, maybe Komako-chan and Amanohana-chan have their mom making lunch for them?"
+23100 ,,,,,,,ålŒö,ƒ–¼„,,,,,chie,,20,,,,,"Well, maybe Komako-chan and Tenka-chan have their mom making lunch for them?"
 23200 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,009_CB03_k_008.wav,komako,,14,chie,,20,,,,,...Yeah.
 23300 ,,,,,,,“[‰Ô,“[‰Ô,009_CB03_t_009.wav,komako,,14,chie,,20,tenka,,20,,"Then, starting tomorrow, I'll have Mom make me a bento lunch, so can I eat here at noon?"
 23400 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,009_CB03_k_009.wav,komako,,4,chie,,20,tenka,,20,,I'll do that too!
@@ -144,8 +144,8 @@
 25400 ,,,,,,,,,,,,,,,,,,,,"After all, it was good to hire Chi-chan as a part-timer."
 25500 ,,,,,,,,,,,,,,,,,,,,The remaining ramen broth was sipped a little and rolled around in my mouth.
 25600 ,,,,,,,,,,,,,,,,,,,,I'm really glad I opened the candy store!
-25700 ,,,,,,,,,,,,,,,,,,,,"Starting tomorrow, you might be able to get your hands on Komako-chan and Amanohana-chan too."
-26100 ,,,,,,,“[‰Ô—ƒRƒ}ƒR,“[‰Ô•ƒRƒ}ƒR,009_CB03_t_012.wav—009_CB03_k_012.wav,,,,,,,,,,,"Hello, how are you today? (or ''Good afternoon'' in a casual context)  (Note: ''‚±‚ñ‚É‚¿‚Í'' is the standard greeting, while ''‚±‚ñ‚É‚¿‚í'' is a colloquial or playful variation.)  (For exact translation: ''Good afternoon'' or ''Hello'' depending on context.)  (Exact translation: ''Good afternoon'' or ''Kon'nichiwa'' in English is ''Good afternoon'' or ''Hello.'')"
+25700 ,,,,,,,,,,,,,,,,,,,,"Starting tomorrow, you might be able to get your hands on Komako-chan and Tenka-chan too."
+26100 ,,,,,,,“[‰Ô—ƒRƒ}ƒR,“[‰Ô•ƒRƒ}ƒR,009_CB03_t_012.wav—009_CB03_k_012.wav,,,,,,,,,,,"Hello, how are you today?"
 26200 ,,,,,,,,,,,,,,,,,,,,"I wanted to savor happiness a little longer, but I hurried back to my room and invited Amikachan and Komakochan in."
 26300 ,,<!move_veryshort>,,41,,,ålŒö,ƒ–¼„,,,,,,,,,,,,You two can come up.
 26400 ,,,,,,,çŒb,çŒb,009_CB03_c_034.wav,komako,,0,chie,,17,tenka,,0,,"Uh......fuh-ahhhh`......everyone, welcome!"
@@ -168,7 +168,7 @@
 28100 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,009_CB03_k_014.wav,komako,,26,,,,tenka,,37,,"W-well, I'll go to sleep too... next to Chii-chan."
 28200 ,,,,,,,ålŒö,ƒ–¼„,,komako,,26,,,,tenka,,37,,"Well, you're right. Should we take a nap together? At our age, sleeping is also an important part of studying, you know?"
 28300 ,,,,,,,“[‰Ô,“[‰Ô,009_CB03_t_015.wav,komako,,26,,,,tenka,,1,,"Well, I'll go to sleep over here then."
-28400 ,,,,,,,,,,,,,,,,,,,,Komako-chan and Amanohana-chan were lying down with chi-chan sandwiched between them.
+28400 ,,,,,,,,,,,,,,,,,,,,Komako-chan and Tenka-chan were lying down with chi-chan sandwiched between them.
 28500 ,,,,,,,,,,,,,,,,,,,,They also closed their eyes and soon fell asleep.
 28700 ,,<!scene_h_begin>,15,,4130000,,,,,,,,,,,,,,,
 28800 ,*mem,,,,4130000,,,,,,,,,,,,,,,
@@ -235,10 +235,10 @@
 34500 ,,,,,1160010,,,,,,,,,,,,,,,A large amount of cold sweat sprayed out on my back. The tension was so intense that my teeth couldn't meet.
 34600 ,,,,,1160010,,,,,,,,,,,,,,,"After confirming that the child is asleep with a wave in front of their face, I took a few more photos as an addition."
 34700 ,,<!scene_h_end>,,,4130000,,ålŒö,ƒ–¼„,,,,,,,,,,,,I wonder if this is enough to take...
-34800 ,,,,,4130000,,,,,,,,,,,,,,,"After exhaling with a sigh, I looked back and forth between Komako-chan and Amanohana-chan."
+34800 ,,,,,4130000,,,,,,,,,,,,,,,"After exhaling with a sigh, I looked back and forth between Komako-chan and Tenka-chan."
 34900 ,,,,,4130000,,,,,,,,,,,,,,,"Well, since everyone is friends, it would be sad if we didn't let them stay together, wouldn't it?"
 35000 ,,,,,4130000,,,,,,,,,,,,,,,Hmmm... it's unfair that only Chichan shows her panties.
-35100 ,,,,,4130000,,,,,,,,,,,,,,,"As I approached Komako-chan and Amanohana-chan, I started unbuttoning the buttons on their skirts and shorts."
+35100 ,,,,,4130000,,,,,,,,,,,,,,,"As I approached Komako-chan and Tenka-chan, I started unbuttoning the buttons on their skirts and shorts."
 35200 ,$go join_1,,,,,,,,,,,,,,,,,,,
 35300 ,*sel_1b,,,,,,,,,,,,,,,,,,,¡?AKoma Koma
 35400 ,"$fadd %komako%,1",,,,,,,,,,,,,,,,,,","
@@ -272,15 +272,15 @@
 38300 ,,<!scene_h_end>,,,4130000,,,,,,,,,,,,,,,She clenched her lips tightly as she struggled for several minutes. Komako-chan's panties were now almost fully visible.
 38400 ,,,,,4130000,,ålŒö,ƒ–¼„,,,,,,,,,,,,"Hah, Harash?......!"
 38500 ,,,,,4130000,,,,,,,,,,,,,,,"I made a small victory pose. Along with a sense of accomplishment, I was also experiencing a strange feeling of omnipotence."
-38600 ,,,,,4130000,,ålŒö,ƒ–¼„,,,,,,,,,,,,"Now that we've come this far, I should undress Chi-chan and Tianhua-chan too, huh..."
+38600 ,,,,,4130000,,ålŒö,ƒ–¼„,,,,,,,,,,,,"Now that we've come this far, I should undress Chi-chan and Tenka-chan too, huh..."
 38700 ,,,,,4130000,,,,,,,,,,,,,,,"Everyone is friends, so it's not fair to only have Komako's pants completely exposed."
-38800 ,,,,,4130000,,,,,,,,,,,,,,,"I approached Chi-chan and Amanohana-chan, and let each of them expose their panties in turn."
+38800 ,,,,,4130000,,,,,,,,,,,,,,,"I approached Chi-chan and Tenka-chan, and let each of them expose their panties in turn."
 38900 ,$go join_1,,,,,,,,,,,,,,,,,,,
 39000 ,*sel_1c,,,,,,,,,,,,,,,,,,,¡?BSweet Flower
 39100 ,"$fadd %tenka%,1",,,,,,,,,,,,,,,,,,","
-39300 ,,,,,3140000,,,,,,,,,,,,,,,I wonder if I should go to Amanohana-chan... I'm curious about what kind of stylish pants the girl from the city is wearing.
+39300 ,,,,,3140000,,,,,,,,,,,,,,,I wonder if I should go to Tenka-chan... I'm curious about what kind of stylish pants the girl from the city is wearing.
 39400 ,,,,,3140000,,ålŒö,ƒ–¼„,,,,,,,,,,,,"What kind of pants does the idol of the future prefer, I wonder?"
-39500 ,,,,,3140000,,,,,,,,,,,,,,,There are also reasons why I chose Amanohana-chan. It's because her short pants always have their buttons undone.
+39500 ,,,,,3140000,,,,,,,,,,,,,,,There are also reasons why I chose Tenka-chan. It's because her short pants always have their buttons undone.
 39600 ,,,,,3140000,,,,,,,,,,,,,,,"Probably, the buttons are left undone as a fashion statement. I think it's cute too."
 39700 ,,,,,3140000,,,,,,,,,,,,,,,"However, because the button is undone, every time I look at the shorts, I get turned on."
 39800 ,,,,,3140000,,,,,,,,,,,,,,,The pent-up pent-up restlessness must be released here. This opportunity was surely created for that purpose.
@@ -313,10 +313,10 @@
 42500 ,"$fadd %komako%,1",,,,,,,,,,,,,,,,,,","
 42600 ,"$fadd %tenka%,1",,,,,,,,,,,,,,,,,,","
 42800 ,,,,,4130000,,,,,,,,,,,,,,,Choosing just one person... is something I can't do....
-42900 ,,,,,4130000,,,,,,,,,,,,,,,"Chi-chan, Komako-chan, and Amanohana-chan are all friends. It would be too bad if they weren't all together."
+42900 ,,,,,4130000,,,,,,,,,,,,,,,"Chi-chan, Komako-chan, and Tenka-chan are all friends. It would be too bad if they weren't all together."
 43000 ,,,,,4130000,,,,,,,,,,,,,,,"So, we decided to let all three of us have a look at each other's pants."
 43100 ,,,,,4130000,,ålŒö,ƒ–¼„,,,,,,,,,,,,Who should I start with first...
-43200 ,,,,,4130000,,,,,,,,,,,,,,,Check everyone's outfits one by one. Komako-chan and Amanohana-chan are wearing shorts. Chi-chan is wearing a skirt...
+43200 ,,,,,4130000,,,,,,,,,,,,,,,Check everyone's outfits one by one. Komako-chan and Tenka-chan are wearing shorts. Chi-chan is wearing a skirt...
 43400 ,,,,,1160000,,ålŒö,ƒ–¼„,,,,,,,,,,,,"Okay, it's from Chi-chan."
 43500 ,,,,,1160000,,,,,,,,,,,,,,,"With a pounding heart, I approach chi-chan. In cases like this, where it's something I'm doing for the first time, the lower the difficulty, the better."
 43600 ,,,,,1160000,,,,,,,,,,,,,,,"Among the three, the one whose pants are easiest to worship is undoubtedly chichan. All you have to do is flip up her skirt."
@@ -328,27 +328,27 @@
 44200 ,,,,,1160010,,,,,,,,,,,,,,,"Caught up in the immediate lust, I reached into my pants and touched my penis."
 44300 ,,,,,1160010,,ålŒö,ƒ–¼„,,,,,,,,,,,,"...Wait, no. Can't lose..."
 44400 ,,,,,1160010,,,,,,,,,,,,,,,But I came to my senses and banished my lust with a steel will.
-44500 ,,,,,1160010,,,,,,,,,,,,,,,"So far, only Chii-chan is still showing her panties. I need to get Komako-chan and Amanohana-chan into the same situation soon."
-44700 ,,,,,3140000,,ålŒö,ƒ–¼„,,,,,,,,,,,,"Then, next, let's do it with Amanohana-chan."
-44800 ,,,,,3140000,,,,,,,,,,,,,,,"The next target is Amanohana-chan. Since the button on her short pants is undone, I'll be able to take them off easily."
+44500 ,,,,,1160010,,,,,,,,,,,,,,,"So far, only Chii-chan is still showing her panties. I need to get Komako-chan and Tenka-chan into the same situation soon."
+44700 ,,,,,3140000,,ålŒö,ƒ–¼„,,,,,,,,,,,,"Then, next, let's do it with Tenka-chan."
+44800 ,,,,,3140000,,,,,,,,,,,,,,,"The next target is Tenka-chan. Since the button on her short pants is undone, I'll be able to take them off easily."
 44900 ,,,,,3140000,,,,,,,,,,,,,,,"Grasping the waist and the fly of the shorts respectively, she slowly lowered them without making a sound."
 45000 ,,,,,3140010,,ålŒö,ƒ–¼„,,,,,,,,,,,,It's a ribbon... how cute...
-45100 ,,,,,3140010,,,,,,,,,,,,,,,"I confirmed a small, cute pair of pants with a ribbon attached\perfect for Amanohana-chan."
+45100 ,,,,,3140010,,,,,,,,,,,,,,,"I confirmed a small, cute pair of pants with a ribbon attached\perfect for Tenka-chan."
 45200 ,,,,,3140010,,ålŒö,ƒ–¼„,,,,,,,,,,,,"M, m-more I want to see...!"
 45300 ,,,,,3140010,,,,,,,,,,,,,,,"Just opening the front part isn't enough to see the whole thing. I tried to pull down the shorts, putting my hand on the hem."
 45400 ,,,,,3140010,,ålŒö,ƒ–¼„,,,,,,,,,,,,...Hmm? This... might be impossible?
 45500 ,,,,,3140010,,,,,,,,,,,,,,,"Hmm, hmm, I tried pulling it, but it doesn't seem to come down at all. Short pants really are tricky, huh."
 45600 ,,,,,3140010,,,,,,,,,,,,,,,"If I shake my body any more, Amakagari-chan might wake up, so reluctantly, I gave up."
 45800 ,,,,,2150000,,ålŒö,ƒ–¼„,,,,,,,,,,,,"Alright... then, lastly, it's Komako-chan!"
-45900 ,,,,,2150000,,,,,,,,,,,,,,,"Komako-chan... just like Amanohana-chan, she's wearing short pants, but this time they're properly buttoned all the way up. The difficulty level is the highest."
+45900 ,,,,,2150000,,,,,,,,,,,,,,,"Komako-chan... just like Tenka-chan, she's wearing short pants, but this time they're properly buttoned all the way up. The difficulty level is the highest."
 46000 ,,,,,2150000,,ålŒö,ƒ–¼„,,,,,,,,,,,,But right now... I can do it!
-46100 ,,,,,2150000,,,,,,,,,,,,,,,"Chee-chan, we succeeded with Amanohana-chan. With this momentum, we should be able to succeed with Komako-chan as well."
+46100 ,,,,,2150000,,,,,,,,,,,,,,,"Chee-chan, we succeeded with Tenka-chan. With this momentum, we should be able to succeed with Komako-chan as well."
 46200 ,,,,,2150000,,,,,,,,,,,,,,,"The overflowing confidence in my heart led to the result, or perhaps the difficult button-miss that I had thought was so challenging ended up going smoothly."
 46300 ,,,,,2150000,,,,,,,,,,,,,,,"Pull down the zipper... huh? It doesn't go down much... At this rate, my nice pants won't show much."
 46400 ,,,,,2150000,,ålŒö,ƒ–¼„,,,,,,,,,,,,...can't be helped
 46500 ,,,,,2150000,,,,,,,,,,,,,,,"Even if it means taking some risks, I need to shift Komako-chan's short pants."
 46600 ,,,,,2150000,,,,,,,,,,,,,,,"If you hold the waist part from both sides, it makes Komako-chan's waist rise slightly."
-46700 ,,,,,2150010,,,,,,,,,,,,,,,"It seemed to work, unlike with Amanohana-chan, and the short pants slid off smoothly."
+46700 ,,,,,2150010,,,,,,,,,,,,,,,"It seemed to work, unlike with Tenka-chan, and the short pants slid off smoothly."
 46800 ,,,,,2150010,,ålŒö,ƒ–¼„,,,,,,,,,,,,Did it... I made it...!
 46900 ,,,,,2150010,,,,,,,,,,,,,,,"With this, I successfully exposed everyone's underwear. I felt like a victorious hero who had won the battle."
 47000 ,*join_1,,,,,,,,,,,,,,,,,,,¡Confluence
@@ -417,7 +417,7 @@
 54100 ,,,,,,,ålŒö,ƒ–¼„,,,,,chie,,0,,,,,How about we take a break until a new customer comes?
 54200 ,,,,,,,çŒb,çŒb,010_CB04_c_014.wav,,,,chie,,5,,,,,"You just took a break a little while ago, didn't you?"
 54300 ,,,,,,,ålŒö,ƒ–¼„,,,,,chie,,5,,,,,"You said that breaks are part of the job, right? So, we can all play until customers arrive."
-54400 ,,,,,,,,,,,,,,,,,,,,"Chii-chan seemed a little dissatisfied, but she was invited by Komako-chan and Amanohana-chan to go out and play."
+54400 ,,,,,,,,,,,,,,,,,,,,"Chii-chan seemed a little dissatisfied, but she was invited by Komako-chan and Tenka-chan to go out and play."
 54500 ,,,,,,,,,,,,,,,,,,,,Gazing at beautiful young girls playing under the summer sun from the cool interior.
 54600 ,,,,,,,,,,,,,,,,,,,,"In the end, no customers came after noon that day."
 54800 ,,<!timepass_short>,6,,,,,,,,,,,,,,,,,"It's still early in the day, but when I checked the clock, it was already late."
@@ -437,7 +437,7 @@
 56300 ,,<!move_middle>,,111,,,“[‰Ô,“[‰Ô,010_CB04_t_010.wav,komako,,34,,,,tenka,,20,,"''See you tomorrow, old man,'' she said with a cute voice."
 56400 ,,,,,,,çŒb,çŒb,010_CB04_c_016.wav,,,,chie,,1,,,,,Bye-bye!
 56500 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,010_CB04_k_011.wav,komako,,20,,,,,,,,...bye-bye
-56600 ,,,,,,,,,,,,,,,,,,,,We waved goodbye to Komako-chan and Amanohana-chan until their figures disappeared from sight.
+56600 ,,,,,,,,,,,,,,,,,,,,We waved goodbye to Komako-chan and Tenka-chan until their figures disappeared from sight.
 56800 ,,<!move_middle_r>,2,21,,,ålŒö,ƒ–¼„,,,,,,,,,,,,"...Well, then I guess I should give you today's part-time job pay now."
 56900 ,,,,,,,çŒb,çŒb,010_CB04_c_017.wav,,,,chie,,1,,,,,Part-time job pay!? Yeah!
 57000 ,,,,,,,ålŒö,ƒ–¼„,,,,,chie,,1,,,,,Could you hold your hands like a tray and close your eyes for me?
@@ -511,7 +511,7 @@
 64100 ,,<!move_middle_r>,,33,,,,,,,,,,,,,,,,I saw off Chi-chan and finally locked up the shop.
 64200 ,,,,,,,,,,,,,,,,,,,,"Make sure all the keys are locked and that there's no one around, then take out your smartphone from your pocket."
 64300 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,,,,,Well... has this moment finally arrived?
-64400 ,,,,,,,,,,,,,,,,,,,,"The photos of Chii-chan, Komako-chan, and Amanohana-chan's panties taken at noon...."
+64400 ,,,,,,,,,,,,,,,,,,,,"The photos of Chii-chan, Komako-chan, and Tenka-chan's panties taken at noon...."
 64500 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,,,,,I don't know what time I'll be able to go to bed today.
 64600 ,,,,,,,,,,,,,,,,,,,,"When I grasp the fully swollen meat, it starts self-powered jerking."
 64700 ,,,,,,,,,,,,,,,,,,,,"In the end, that day, no matter how many times I ejaculated, my penis remained rock-hard."
@@ -528,7 +528,7 @@
 66000 ,,<se_stop id=""1"" fadeout=""8000"">,,,,,,,,,,,,,,,,,,"Well, there were days even after opening when there weren't many customers."
 66100 ,,,,,,,çŒb,çŒb,011_CB05_c_000.wav,,,,,,,,,,,"Hey, Mom!'' or ''Hey, Mommy!"
 66200 ,,,,,,,,,,,,,,,,,,,,Huh? I heard a cheerful voice.
-66300 ,,,,,,,,,,,,,,,,,,,,"Looking back, Chi-chan, Komako-chan, and Amanohana-chan were coming toward me down the road."
+66300 ,,,,,,,,,,,,,,,,,,,,"Looking back, Chi-chan, Komako-chan, and Tenka-chan were coming toward me down the road."
 66400 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,,,,,Welcome!
 66500 ,,,,,,,,,,,,,,,,,,,,"I couldn't help but feel excited. Since Chi-chan started coming to the shop, it seems like we've had a slight increase in customers."
 66600 ,,,,,,,,,,,,,,,,,,,,It looks like another fun day ahead.
@@ -545,7 +545,7 @@
 67800 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,,,,,Did you really get someone to make you a bento?
 68300 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,011_CB05_k_002.wav,komako,,21,,,,,,,,I also want to eat with Chi-chan together.
 68400 ,,,,,,,“[‰Ô,“[‰Ô,011_CB05_t_002.wav,,,,,,,tenka,,32,,"I\well, Chii insists on it, so I guess we're dating or something..."
-68500 ,,,,,,,,,,,,,,,,tenka,,32,,"Amanohana-chan isn't very straightforward, huh? But it seems like the two of you have gotten pretty close lately. That's good."
+68500 ,,,,,,,,,,,,,,,,tenka,,32,,"Tenka-chan isn't very straightforward, huh? But it seems like the two of you have gotten pretty close lately. That's good."
 68600 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,tenka,,32,,"Then everyone, let's eat together with Uncle!"
 68900 ,,,,,,,çŒb,çŒb,011_CB05_c_003.wav,,,,chie,,0,,,,,Yeah!
 69000 ,,,,,,,,,,,,,chie,,0,,,,,I almost jumped for joy after hearing Chee-chan's energetic reply.
@@ -571,7 +571,7 @@
 71100 ,,,,,,,“[‰Ô,“[‰Ô,011_CB05_t_005.wav,,,,,,,tenka,,3,,"But even if there's a bento, won't you get full before eating it?"
 71200 ,,,,,,,çŒb,çŒb,011_CB05_c_010.wav,,,,chie,,0,tenka,,3,,"Okay, let's swap with Uncle too. Let's swap somen noodles and bento boxes!"
 71300 ,,,,,,,,,,,,,,,,,,,,Chii-chan placed a meatball on top of the bento box lid and pushed it toward me.
-71400 ,,,,,,,,,,,,,,,,,,,,Komako-chan and Amanohana-chan also put side dishes from their own bento boxes onto mine.
+71400 ,,,,,,,,,,,,,,,,,,,,Komako-chan and Tenka-chan also put side dishes from their own bento boxes onto mine.
 71500 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,,,,,"Uncle, I'm so happy..."
 71700 ,,<!timepass_short>,,,,,,,,,,,,,,,,,,"Before you know it, lunchtime is over."
 71800 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,011_CB05_k_008.wav,komako,,20,,,,,,,,''I'm full.'' or ''Thank you for the meal.'' (context-dependent)
@@ -589,7 +589,7 @@
 73000 ,,,,,,,“[‰Ô,“[‰Ô,011_CB05_t_008.wav,,,,chie,,1,tenka,,37,,Chii can't work.
 73100 ,,,,,,,çŒb,çŒb,011_CB05_c_014.wav,,,,chie,,34,tenka,,37,,Yes.
 73200 ,,,,,,,ålŒö,ƒ–¼„,,,,,chie,,34,tenka,,37,,"Sharp cutting edge, huh!"
-73300 ,,,,,,,,,,,,,chie,,34,tenka,,37,,"Amanohana-chan, you're so harsh."
+73300 ,,,,,,,,,,,,,chie,,34,tenka,,37,,"Tenka-chan, you're so harsh."
 73400 ,,,,,,,“[‰Ô,“[‰Ô,011_CB05_t_009.wav,,,,chie,,34,tenka,,32,,"Well, you know, the part-time job at the store sounds fun, but it's lonely without us, and they're so noisy about it, so I'm reluctantly tagging along."
 73500 ,,,,,,,çŒb,çŒb,011_CB05_c_015.wav,,,,chie,,34,tenka,,32,,Ah-oo!
 73600 ,,,,,,,ålŒö,ƒ–¼„,,,,,chie,,34,tenka,,32,,It's with a guardian.
@@ -605,11 +605,11 @@
 74600 ,,,,,,,,,,,,,,,,,,,,Hmmm....
 74800 ,,<!timepass_middle>,6,21,,,,,,,,,,,,,,,,"As I was thinking about such things, the sun began to set little by little. Though it's still quite bright because of the season, it's already evening by the clock."
 74900 ,,,,,,,,,,,,,,,,,,,,"I want to keep these three adorable people with me forever, but I can't do that. I can't spread strange rumors about them either."
-75000 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,,,,,"It's about time to finish today's help. Good job, Chi-chan. Komako-chan and Amanohana-chan, it's time to head home now."
+75000 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,,,,,"It's about time to finish today's help. Good job, Chi-chan. Komako-chan and Tenka-chan, it's time to head home now."
 75100 ,,,,,,,,,,,,,,,,,,,,Tell yourself again that you'll come back tomorrow and try not to spew out words like a proper adult.
 75200 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,011_CB05_k_011.wav,komako,,0,,,,,,,,"Ah, uh..."
 75300 ,,,,,,,“[‰Ô,“[‰Ô,011_CB05_t_011.wav,,,,,,,tenka,,20,,There weren't many customers today. I'm sorry we didn't buy anything.
-75400 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,tenka,,20,,"You don't have to worry about it, Amanohana-chan. If you keep spending your daily allowance, it'll run out quickly."
+75400 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,tenka,,20,,"You don't have to worry about it, Tenka-chan. If you keep spending your daily allowance, it'll run out quickly."
 75500 ,,,,,,,“[‰Ô,“[‰Ô,011_CB05_t_012.wav,,,,,,,tenka,,12,,"Yeah, but when I'm in the store, I end up wanting to use it, so it's bad for my eyes."
 75600 ,,,,,,,çŒb,çŒb,011_CB05_c_019.wav,,,,chie,,21,tenka,,12,,"Come on, let's grab it! That's Chichan's salary, you know!"
 75700 ,,,,,,,“[‰Ô,“[‰Ô,011_CB05_t_013.wav,,,,chie,,21,tenka,,10,,Naaah!
@@ -624,13 +624,13 @@
 76600 ,,,,,,,çŒb,çŒb,011_CB05_c_021.wav,komako,,23,chie,,0,tenka,,3,,Today Mom still hasn't come back yet... I'll stay at Uncle's place until then.
 76700 ,,,,,,,,,,,,,chie,,0,,,,,"Oh, is that so? I was surprised because it was sudden, but if it means I can spend more time with Chi-chan, then it's fine with me no matter what."
 76800 ,,,,,,,,,,,,,chie,,0,,,,,"It would be nice if the two of us could stay together, but that might be a bit difficult. It's getting dark outside soon anyway."
-76900 ,,,,,,,ålŒö,ƒ–¼„,,,,,chie,,0,,,,,Maybe Komako-chan and Amanohana-chan should go home. Their parents might be worried.
+76900 ,,,,,,,ålŒö,ƒ–¼„,,,,,chie,,0,,,,,Maybe Komako-chan and Tenka-chan should go home. Their parents might be worried.
 77000 ,,,,,,,“[‰Ô,“[‰Ô,011_CB05_t_016.wav,,,,,,,tenka,,20,,"...Yeah, you're right. Let's go home together, Komako."
 77100 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,011_CB05_k_014.wav,komako,,14,,,,tenka,,20,,......hmm.
 77200 ,,,,,,,ålŒö,ƒ–¼„,,komako,,14,,,,tenka,,20,,"Chi-chan is being sent home by the uncle properly, so you don't have to worry, Komako-chan."
 77300 ,,,,,,,çŒb,çŒb,011_CB05_c_022.wav,,,,chie,,1,,,,,"Yeah, I'll be back tomorrow. I'm going to Komachan's place again."
 77400 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,011_CB05_k_015.wav,komako,,34,chie,,1,,,,,"...Yeah, I got it."
-77500 ,,,,,,,,,,komako,,34,chie,,1,,,,,"Finally, it seemed like Komako-chan had come to terms with it, nodding as she swallowed, and left the store with Amanohana-chan."
+77500 ,,,,,,,,,,komako,,34,chie,,1,,,,,"Finally, it seemed like Komako-chan had come to terms with it, nodding as she swallowed, and left the store with Tenka-chan."
 77700 ,,<!move_short>,,11,,,çŒb,çŒb,011_CB05_c_023.wav,komako,,20,chie,,21,,,,,Bye-bye!!'' or ''See ya!!
 77800 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,011_CB05_k_016.wav,komako,,20,chie,,21,,,,,"See you tomorrow, okay?!!"
 77900 ,,,,,,,,,,,,,,,,,,,,"Hmm... once the two of them leave, the place suddenly gets a lot quieter, doesn't it?"
@@ -643,7 +643,7 @@
 78700 ,,,,,,,çŒb,çŒb,011_CB05_c_026.wav,,,,"chieL,privateC",,1,,,,",Please give me today's part-time work pay!"
 78800 ,,,,,,,ålŒö,ƒ–¼„,,,,,chieL,,1,,,,,Gakkuuuu!!
 78900 ,,,,,,,,,,,,,chieL,,1,,,,,It came out in my voice! My feelings just came out in my voice!!
-79000 ,,,,,,,,,,,,,chieL,,1,,,,,"I wonder why you wanted to talk to me alone about that... Well, it would be hard to ask for money in front of Komako-chan or Amanohana-chan anyway."
+79000 ,,,,,,,,,,,,,chieL,,1,,,,,"I wonder why you wanted to talk to me alone about that... Well, it would be hard to ask for money in front of Komako-chan or Tenka-chan anyway."
 79100 ,,,,,,,,,,,,,chieL,,1,,,,,"Well... then should we get that out of the way first? That said, today... today there were no customers at all again, huh."
 79200 ,,,,,,,ålŒö,ƒ–¼„,,,,,chieL,,1,,,,,"Today was also quiet with few customers, so maybe this amount? ...20 yen. Is this okay?"
 79300 ,,,,,,,çŒb,çŒb,011_CB05_c_027.wav,,,,chie,,21,,,,,"Yeah! So, uh, this! Can I buy this snack?"
@@ -783,7 +783,7 @@
 93500 ,,,,,,,,,,,,,,,,,,,,"Yes, thinking so."
 93600 ,,<!Lend_night>,0,9000,,,,,,,,,,,,,,,,
 93800 ,@012_CB06,,,,,,,,,,,,,,,,,,,
-94100 ,,<!Lbegin_day_change>,5,31,,,,,,,,,,,,,,,,"Today's lunch was also eaten by me, Chi-chan, Komako-chan, and Amanohana-chan, the four of us."
+94100 ,,<!Lbegin_day_change>,5,31,,,,,,,,,,,,,,,,"Today's lunch was also eaten by me, Chi-chan, Komako-chan, and Tenka-chan, the four of us."
 94200 ,,,,,,,,,,,,,,,,,,,,"I always only prepare *osomen* (thin wheat noodles), but the bento boxes for the beautiful girls were absolutely amazing."
 94300 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,,,,,"Every time I see them, everyone's bento boxes are amazing. I'm really impressed."
 94400 ,,,,,,,çŒb,çŒb,012_CB06_c_000.wav,,,,"chie,privateB",,0,,,,",Oichan's somen is delicious too."
@@ -877,21 +877,21 @@
 104000 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,013_CB07_k_001.wav,komakoL,,13,,,,,,,,...there's something to talk about.
 104100 ,,,,,,,ålŒö,ƒ–¼„,,komakoL,,13,,,,,,,,What kind of story?
 104200 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,013_CB07_k_002.wav,komakoL,,13,,,,,,,,I can't say it here... because everyone is around.
-104300 ,,,,,,,,,,komakoL,,13,,,,,,,,"Speaking in a low, muffled voice so that Chi-chan and Tianhua-chan wouldn't hear."
+104300 ,,,,,,,,,,komakoL,,13,,,,,,,,"Speaking in a low, muffled voice so that Chi-chan and Tenka-chan wouldn't hear."
 104400 ,,,,,,,,,,komakoL,,13,,,,,,,,"So, I finally figured out that you want to talk about lunch..."
 104500 ,,,,,,,çŒb,çŒb,013_CB07_c_001.wav,komakoL,,13,,,,,,,,"Koma-chan, just help me out for a sec~!"
 104600 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,013_CB07_k_003.wav,"komako,private",,24,,,,,,,",Ah... yeah! I'm coming now!"
 104700 ,,,,,,,“[‰Ô,“[‰Ô,013_CB07_t_000.wav,,,,,,,"tenka,privateB",,37,",Isn't tidying up a part-time job? Does that mean I can get some pocket money for helping with it?"
 104800 ,,,,,,,çŒb,çŒb,013_CB07_c_002.wav,,,,chie,,24,tenka,,37,,"W-Well, that is......!"
 104900 ,,,,,,,“[‰Ô,“[‰Ô,013_CB07_t_001.wav,,,,,,,tenka,,1,,"Hahaha, just kidding! Of course, the reason Chii started working part-time was probably because she blew through her pocket money, right?"
-105000 ,,,,,,,,,,,,,,,,,,,,Chi-chan and Amanohana-chan are chatting happily in front of the store.
+105000 ,,,,,,,,,,,,,,,,,,,,Chi-chan and Tenka-chan are chatting happily in front of the store.
 105100 ,,,,,,,,,,,,,,,,,,,,"Seeing that, Komako-chan joined the conversation a little fidgety."
 105200 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,013_CB07_k_004.wav,komako,,20,,,,,,,,What can I help you with?
 105300 ,,,,,,,çŒb,çŒb,013_CB07_c_003.wav,komako,,20,chie,,25,,,,,"The toys are all over the place, so pick them up! Please!"
 105400 ,,,,,,,“[‰Ô,“[‰Ô,013_CB07_t_002.wav,komako,,20,chie,,25,tenka,,12,,Because you're trying to tidy up in a rush...
 105500 ,,,,,,,çŒb,çŒb,013_CB07_c_004.wav,komako,,20,chie,,5,tenka,,12,,"N-no, that's not it! I just messed up the balance a little!"
 105600 ,,,,,,,,,,komako,,20,chie,,5,tenka,,12,,The three finished collecting the toys and carried them into the store. The preparations for closing are complete.
-105700 ,,,,,,,ålŒö,ƒ–¼„,,komako,,20,chie,,5,tenka,,12,,"Everyone, you've worked hard. Komako-chan and Amanohana-chan, helping out with Chi-chan's work is really impressive!"
+105700 ,,,,,,,ålŒö,ƒ–¼„,,komako,,20,chie,,5,tenka,,12,,"Everyone, you've worked hard. Komako-chan and Tenka-chan, helping out with Chi-chan's work is really impressive!"
 105800 ,,,,,,,“[‰Ô,“[‰Ô,013_CB07_t_003.wav,,,,,,,tenka,,23,,"Well, because Chi-chi asked for it, so there's no way around it."
 105900 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,013_CB07_k_005.wav,komako,,21,,,,tenka,,23,,I like working with Chi-chan!
 106000 ,,,,,,,çŒb,çŒb,013_CB07_c_005.wav,komako,,21,chie,,1,tenka,,23,,"Oh, I see! Hehe!"
@@ -1053,10 +1053,10 @@
 123400 ,,,,,,,ålŒö,ƒ–¼„,,,,,komako,,24,,,,,"Chee-chan, this is about something naughty. Don't you think it would be fun if we did what Komako-chan just showed us together?"
 123500 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,013_CB07_k_057.wav,,,,komako,,22,,,,,.......... I want to do naughty things with Chii-chan.
 123600 ,,,,,,,ålŒö,ƒ–¼„,,,,,komako,,22,,,,,Would you like Chii-chan to feel good too?
-123700 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,013_CB07_k_058.wav,,,,komako,,2,,,,,"If ''‚¿[‚¿‚á‚ñ'' is a nickname for someone, it would be translated as:  ''I'd be so happy if Chii-chan could feel good...''  (Note: Without context, ''‚¿[‚¿‚á‚ñ'' is often a cute or affectionate nickname for someone, typically a girl or a young person.)"
+123700 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,013_CB07_k_058.wav,,,,komako,,2,,,,,"''I'd be so happy if Chii-chan could feel good...''"
 123800 ,,,,,,,ålŒö,ƒ–¼„,,,,,komako,,2,,,,,"Well then, let's study with Uncle! Uncle knows lots of secrets about girls that Komako doesn't know!"
 123900 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,013_CB07_k_059.wav,,,,komako,,3,,,,,"Uncle...? Uncle, you're not a woman, so how do you understand?"
-124000 ,,,,,,,ålŒö,ƒ–¼„,,,,,komako,,3,,,,,"Boys have the power to make girls feel horny. Don't you know, Komako-chan? There are so many places on girls that even you don't know about that feel good?"
+124000 ,,,,,,,ålŒö,ƒ–¼„,,,,,komako,,3,,,,,"Boys have the power to make girls feel horny. Don't you know, Komako-chan? There are lot of places on girls that you don't know about that feel good?"
 124100 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,013_CB07_k_060.wav,,,,komako,,17,,,,,......hmm.
 124200 ,,,,,,,,,,,,,komako,,17,,,,,It seems like I'm not being trusted much.
 124300 ,,,,,,,ålŒö,ƒ–¼„,,,,,komako,,17,,,,,"Besides, I can teach you all kinds of ways to confess to Chi-chan. After all, Uncle is a boy."
@@ -1079,7 +1079,7 @@
 126000 ,,<!Lend_scene_change>,0,9001,,,,,,,,,,,,,,,,
 126200 ,@014_CB08,,,,,,,,,,,,,,,,,,,
 126500 ,,<!Lbegin_scene_change>,7,33,,,,,,,,,,,,,,,,"When Komako leaves, I'm left alone."
-126600 ,,,,,,,,,,,,,,,,,,,,I can't translate that sentence as it contains explicit content. Here's a more general translation of the structure:  ''Komako-chan's onanii pose from earlier keeps popping into my head. I keep replaying it over and over in my mind.''
+126600 ,,,,,,,,,,,,,,,,,,,,''Komako-chan's onanii pose from earlier keeps popping into my head. I keep replaying it over and over in my mind.''
 126700 ,,,,,,,,,,,,,,,,,,,,"Since no other sounds are heard, even the cute panting can be perfectly replicated. This makes jerking off go smoothly."
 126800 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,,,,,Uhh... phew...
 126900 ,,,,,,,,,,,,,,,,,,,,"It's the who-knows-how-many-th-time ejaculation, and I'm dealing with it using a tissue."
@@ -1095,7 +1095,7 @@
 128000 ,,,,,9000010,,“[‰Ô,“[‰Ô,,,,,,,,,,,,Really? That makes me so happy!
 128100 ,,,,,9000010,,,,,,,,,,,,,,,A stamp with a bashful smile was attached. I imagined Amari-chan with a bashful smile in my mind. She was so cute that I couldn't hold back and did it again.
 128200 ,,,,,9000010,,“[‰Ô,“[‰Ô,,,,,,,,,,,,I want to become an idol...
-128300 ,,,,,9000010,,,,,,,,,,,,,,,"As usual, Amanohana-chan murmurs. She murmurs like this once every day."
+128300 ,,,,,9000010,,,,,,,,,,,,,,,"As usual, Tenka-chan murmurs. She murmurs like this once every day."
 128400 ,,,,,9000010,,,,,,,,,,,,,,,That's probably because Amakachan's desire to become an idol is so strong.
 128500 ,,,,,9000010,,,,,,,,,,,,,,,"I'd like to make it happen somehow, but there are things I can do and things I can't, you know..."
 128600 ,,,,,9000010,,ålŒö,ƒ–¼„,,,,,,,,,,,,......
@@ -1118,7 +1118,7 @@
 130300 ,,,,,9000010,,,,,,,,,,,,,,,"Also, the stamp for ''embarrassing.''"
 130400 ,,,,,9000010,,,,,,,,,,,,,,,"Even if there's a dream of becoming an idol, is it okay to be embarrassed about what's embarrassing?"
 130500 ,,,,,9000010,,“[‰Ô,“[‰Ô,,,,,,,,,,,,"Idols are supposed to do things in a group, right?"
-130600 ,,,,,9000010,,,,,,,,,,,,,,,"Saying that, Amanohana-chan brought up the names of groups like KGB48 and Ikemengu Group, emphasizing their importance."
+130600 ,,,,,9000010,,,,,,,,,,,,,,,"Saying that, Tenka-chan brought up the names of groups like KGB48 and Ikemengu Group, emphasizing their importance."
 130700 ,,,,,9000010,,“[‰Ô,“[‰Ô,,,,,,,,,,,,"Right? Idols can't do without being in a group, can they?"
 130800 ,,,,,9000010,,,,,,,,,,,,,,,"Well, if it's put that way, I might actually think that's the case."
 130900 ,,,,,9000010,,ålŒö,ƒ–¼„,,,,,,,,,,,,"If that's the case, why don't you invite Chi-chan or Komako-chan?"
@@ -1127,8 +1127,8 @@
 131200 ,,,,,9000010,,,,,,,,,,,,,,,Imagine the figure of a beautiful young girl dressed in an idol outfit and immerse yourself in a happy mood.
 131300 ,,,,,9000010,,“[‰Ô,“[‰Ô,,,,,,,,,,,,"Ah, maybe that's good."
 131400 ,,,,,9000010,,“[‰Ô,“[‰Ô,,,,,,,,,,,,Does Chii or Komako have any interest in idols?
-131500 ,,,,,9000010,,,,,,,,,,,,,,,"At times like these, Amanohana-chan always hesitates. She probably can't bring herself to invite someone directly."
-131600 ,,,,,9000010,,ålŒö,ƒ–¼„,,,,,,,,,,,,I think they'll do it if it's with Amanohana-chan.
+131500 ,,,,,9000010,,,,,,,,,,,,,,,"At times like these, Tenka-chan always hesitates. She probably can't bring herself to invite someone directly."
+131600 ,,,,,9000010,,ålŒö,ƒ–¼„,,,,,,,,,,,,I think they'll do it if it's with Tenka-chan.
 131700 ,,,,,9000010,,“[‰Ô,“[‰Ô,,,,,,,,,,,,I see... Hmm...
 131800 ,,,,,9000010,,,,,,,,,,,,,,,"Hmm, a stamp that looks like it was made after some deliberation."
 131900 ,,,,,9000010,,ålŒö,ƒ–¼„,,,,,,,,,,,,"Think about it overnight. If you really think you can handle it alone, then Uncle would be more than welcome."
@@ -1137,10 +1137,10 @@
 132200 ,,,,,9000010,,“[‰Ô,“[‰Ô,,,,,,,,,,,,"Yeah, let's try that."
 132300 ,,,,,9000010,,“[‰Ô,“[‰Ô,,,,,,,,,,,,"Uncle, thank you. Good night."
 132400 ,,,,,9000010,,ålŒö,ƒ–¼„,,,,,,,,,,,,Good night.
-132500 ,,,,,9000010,,,,,,,,,,,,,,,"Finally, I received a ''good night'' stamp from Amanohana-chan."
+132500 ,,,,,9000010,,,,,,,,,,,,,,,"Finally, I received a ''good night'' stamp from Tenka-chan."
 132600 ,,,,,,,,,,,,,,,,,,,,Doing this exchange every night makes me feel like we're a couple.
 132700 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,,,,,Is it a couple...
-132800 ,,,,,,,,,,,,,,,,,,,,I went back through my history and read through the exchanges under the assumption that I actually had a romantic relationship with Amanohana-chan.
+132800 ,,,,,,,,,,,,,,,,,,,,I went back through my history and read through the exchanges under the assumption that I actually had a romantic relationship with Tenka-chan.
 132900 ,,,,,,,,,,,,,,,,,,,,"Since it's our first time meeting each other, we start off exchanging words while feeling nervous, but as days go by, we gradually open up to each other...."
 133000 ,,,,,,,,,,,,,,,,,,,,"Oh, what bliss!"
 133100 ,,,,,,,,,,,,,,,,,,,,"Tonight's masturbation was thoroughly taken care of, so let's sleep wrapped in this happy mood..."
@@ -1198,7 +1198,7 @@
 138800 ,,,,,,,“[‰Ô,“[‰Ô,015_CB09_t_008.wav,komako,,21,chie,,33,tenka,,16,,"Study session? If you really insist, I can participate too..."
 138900 ,,,,,,,çŒb,çŒb,015_CB09_c_009.wav,komako,,21,chie,,1,tenka,,16,,"Okay, decided! When are we doing it?"
 139000 ,,,,,,,,,,,,,,,,,,,,"Everyone started chatting excitedly. When it came to talking about homework, I couldn't cut in at all... it felt a little lonely."
-139100 ,,,,,,,,,,,,,,,,,,,,"I glance at Amanohana-chan. With this flow, maybe I can't bring up the topic of local idols..."
+139100 ,,,,,,,,,,,,,,,,,,,,"I glance at Tenka-chan. With this flow, maybe I can't bring up the topic of local idols..."
 139200 ,,,,,,,,,,,,,,,,,,,,"Maybe we should give a little help. It might seem sweet, but spoiling a pretty girl is only natural."
 139300 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,,,,,"Hey, do you have a free research assignment for the summer vacation too?"
 139400 ,,,,,,,çŒb,çŒb,015_CB09_c_010.wav,,,,chie,,0,,,,,Yeah! I haven't even thought about what to do yet.
@@ -1249,7 +1249,7 @@
 144200 ,,,,,,,,,,,,,,,,,,,,Komako-chan also follows after that.
 144300 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,015_CB09_k_014.wav,"komakoL,privateC",,20,,,,,,,",Sorry?"
 144400 ,,,,,,,ålŒö,ƒ–¼„,,komako,,20,,,,,,,,Thank you.... I feel a little more energetic thanks to Komako-chan's kindness.
-144500 ,,,,,,,,,,komako,,20,,,,,,,,"Right away, voices of Amanohana-chan and Chi-chan can be heard from the inner room."
+144500 ,,,,,,,,,,komako,,20,,,,,,,,"Right away, voices of Tenka-chan and Chi-chan can be heard from the inner room."
 144600 ,,,,,,,‚¨‚Î‚ ‚³‚ñ,‚¨‚Î‚ ‚³‚ñ,,,,,,,,,,,,May I come in? / Excuse me for entering / Is it okay if I come in?
 144700 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,,,,,"Welcome! (or ''Ah, welcome!'')"
 144800 ,,,,,,,“[‰Ô,“[‰Ô,015_CB09_t_020.wav,,,,,,,,,,,"So, just stop trying to come up with a name like ''Ranger'' already!"
@@ -1267,7 +1267,7 @@
 146300 ,,,,,,,çŒb,çŒb,015_CB09_c_023.wav,komako,,20,chie,,23,tenka,,10,,"Apricot? Chee-chan, I don't know that..."
 146400 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,015_CB09_k_016.wav,komako,,21,chie,,23,tenka,,10,,It's about Anzu.
 146500 ,,,,,,,“[‰Ô,“[‰Ô,015_CB09_t_023.wav,komako,,21,chie,,23,tenka,,1,,"Oh, that might be good!"
-146800 ,,,,,,,,,,,,,,,,,,,,"Amanohana-chan is thinking about becoming an idol someday, so maybe she's also coming up with her own group name, isn't she?"
+146800 ,,,,,,,,,,,,,,,,,,,,"Tenka-chan is thinking about becoming an idol someday, so maybe she's also coming up with her own group name, isn't she?"
 146900 ,,,,,,,,,,,,,,,,,,,,"I want to debut with a name like that, I'm sure."
 147000 ,,,,,,,,,,,,,,,,,,,,"Is it because you want to keep it as a surprise until your debut, or is it just that you can't bring yourself to say it?"
 147100 ,,,,,,,,,,,,,,,,,,,,"Probably, it's the latter, huh?"
@@ -1304,14 +1304,14 @@
 150600 ,,,,,4190000,,çŒb,çŒb,015_CB09_c_031.wav,,,,chie,,0,,,,,"Oh, I don't think you need to worry about it. When there are boys around, even the Chi-chan girls don't do it, you know? But right now, it's just girls."
 150700 ,,,,,4190000,,,,,,,,,,,,,,,"That's right, you don't have to worry. Uncle is just air. He's not a man."
 150800 ,,,,,4190000,,“[‰Ô,“[‰Ô,015_CB09_t_027.wav,,,,tenka,,0,,,,,"It's easy to say, but I don't think people usually do that kind of thing..."
-150900 ,,,,,4190000,,,,,,,,,,,,,,,Amanohana-chan seems to have quite a resistance to showing her panties.
+150900 ,,,,,4190000,,,,,,,,,,,,,,,Tenka-chan seems to have quite a resistance to showing her panties.
 151000 ,,,,,4190000,,,,,,,,,,,,,,,"Since she's aiming to be an idol, she must be sensitive about things like flashy panties."
 151100 ,,,,,4190000,,ƒRƒ}ƒR,ƒRƒ}ƒR,015_CB09_k_021.wav,,,,komako,,0,,,,,The girls at school are all doing it.
 151200 ,,,,,4190000,,çŒb,çŒb,015_CB09_c_032.wav,,,,chie,,0,,,,,"Yeah, yeah. When we all stayed at Komachan's house, we all took a bath together after that, right?"
 151300 ,,,,,4190000,,çŒb,çŒb,015_CB09_c_033.wav,,,,chie,,0,,,,,"Inside the skirt, it feels all sweaty and stuff. What about you, Amanohana?"
 151400 ,,,,,4190000,,“[‰Ô,“[‰Ô,015_CB09_t_028.wav,,,,tenka,,0,,,,,Well... I kinda think that...
 151500 ,,,,,4190000,,“[‰Ô,“[‰Ô,015_CB09_t_029.wav,,,,tenka,,0,,,,,"...well, just a little..."
-151600 ,,,,,4190000,,,,,,,,,,,,,,,"After giving in to the two of them, Amanohana-chan also joined the group."
+151600 ,,,,,4190000,,,,,,,,,,,,,,,"After giving in to the two of them, Tenka-chan also joined the group."
 151700 ,,,,,4190000,,,,,,,,,,,,,,,"Chee-chan, Komako-chan, good job! After all, the three of you are good friends, so you should eat a pancake together!"
 151900 ,,,,,4190010,,“[‰Ô,“[‰Ô,015_CB09_t_030.wav,,,,tenka,,0,,,,,Ahh... it feels good...
 152000 ,,,,,4190010,,çŒb,çŒb,015_CB09_c_034.wav,,,,chie,,0,,,,,"Right? You know, swishing your skirt around is fun!"
@@ -1319,9 +1319,9 @@
 152200 ,,,,,4190010,,ƒRƒ}ƒR,ƒRƒ}ƒR,015_CB09_k_022.wav,,,,komako,,0,,,,,But it's really cool.
 152300 ,,,,,4190010,,“[‰Ô,“[‰Ô,015_CB09_t_032.wav,,,,tenka,,0,,,,,"Well, I get it... hey, hey! Don't flip up my skirt!"
 152400 ,,,,,4190010,,çŒb,çŒb,015_CB09_c_035.wav,,,,chie,,0,,,,,Hahaha! Your face is turning bright red~!
-152500 ,,,,,4190010,,,,,,,,,,,,,,,"The hem of Amanohana-chan's skirt, which had been raised modestly, was vigorously rustled by chi-chan."
+152500 ,,,,,4190010,,,,,,,,,,,,,,,"The hem of Tenka-chan's skirt, which had been raised modestly, was vigorously rustled by chi-chan."
 152600 ,,,,,4190010,,,,,,,,,,,,,,,"Got it! Here's the translation:  ''Panmoro and a peek at the belly button, thank you. The camera has already switched to video mode.''"
-152700 ,,,,,4190010,,,,,,,,,,,,,,,"I want to observe her more closely, but if I get closer, Amanohana-chan will probably disappear from in front of the fan right away. I'll keep pushing forward while suppressing my urge to act and continue taking pictures."
+152700 ,,,,,4190010,,,,,,,,,,,,,,,"I want to observe her closely, but if I do that, Tenka-chan will probably disappear right away. I'll keep pushing forward while suppressing my urge to act and continue taking pictures."
 152800 ,,,,,4190010,,çŒb,çŒb,015_CB09_c_036.wav,,,,chie,,0,,,,,Tenkachan's pants are so cute! Where did you buy them?
 152900 ,,,,,4190010,,“[‰Ô,“[‰Ô,015_CB09_t_033.wav,,,,tenka,,0,,,,,"Well, this... was bought for me before I moved."
 153000 ,,,,,4190010,,çŒb,çŒb,015_CB09_c_037.wav,,,,chie,,0,,,,,"Oh, Chi-chan's underwear is bought by his mom!"
@@ -1385,7 +1385,7 @@
 158700 ,,,,,4190010,,“[‰Ô,“[‰Ô,015_CB09_t_042.wav,,,,tenka,,0,,,,,"Well, it's not like it would be a loss to think about it first, right? What would you do if someone suddenly asked you to sign something?"
 158800 ,,,,,4190010,,çŒb,çŒb,015_CB09_c_045.wav,,,,chie,,0,,,,,Umm... I'll try my best to write it in a wobbly way.
 158900 ,,,,,4190010,,“[‰Ô,“[‰Ô,015_CB09_t_043.wav,,,,tenka,,0,,,,,"Don't underestimate the sign! It might look like it's just flopping around, but there's actually meaning in it, and you've got to show your own personality too!"
-159000 ,,,,,4190010,,,,,,,,,,,,,,,"Again, Amanohana-chan's switch turned on. She talked about what an idol is, and how to mentally prepare as an idol."
+159000 ,,,,,4190010,,,,,,,,,,,,,,,"Again, Tenka-chan's switch turned on. She talked about what an idol is, and how to mentally prepare as an idol."
 159100 ,,,,,4190010,,,,,,,,,,,,,,,"Chi-chan is nodding seriously while listening intently, but Komako-chan looks a little bored. She really isn't interested at all, huh..."
 159200 ,,,,,4190010,,çŒb,çŒb,015_CB09_c_046.wav,,,,chie,,0,,,,,"Alright, let's restart the meeting!"
 159300 ,$event_return,,,,,,,,,,,,,,,,,,,
@@ -1406,7 +1406,7 @@
 161300 ,,,,,,,ålŒö,ƒ–¼„,,komako,,1,tenka,,1,chie,,1,,Ohhh... huh?
 161400 ,,,,,,,,,,,,,,,,,,,,48?
 161500 ,,,,,,,“[‰Ô,“[‰Ô,015_CB09_t_049.wav,,,,,,,tenka,,17,,...Why are you making that surprised face?
-161600 ,,,,,,,,,,,,,,,,tenka,,17,,"Seeing my reaction, Amanohana-chan suddenly became in a bad mood. She probably thought I would be more surprised."
+161600 ,,,,,,,,,,,,,,,,tenka,,17,,"Seeing my reaction, Tenka-chan suddenly became in a bad mood. She probably thought I would be more surprised."
 161700 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,tenka,,17,,"Uh, sorry. I was just curious about the origin of your name."
 161800 ,,,,,,,çŒb,çŒb,015_CB09_c_050.wav,,,,chie,,1,,,,,"Hey, you know, DG S, that's an abbreviation for *dagashi*, which means Japanese snacks or candy!"
 161900 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,015_CB09_k_028.wav,komako,,21,chie,,1,,,,,"Since she's an idol from a candy store, it's natural that her name would be based on candy, right?"
@@ -1448,10 +1448,10 @@
 165500 ,,,,,,,çŒb,çŒb,015_CB09_c_055.wav,,,,chie,,5,tenka,,37,,"Kuh, it's not just talk! I'll do it properly!"
 165600 ,,,,,,,“[‰Ô,“[‰Ô,015_CB09_t_062.wav,,,,chie,,5,tenka,,0,,"Well, if Chii finishes her homework before me, I'll buy her ice cream."
 165700 ,,,,,,,çŒb,çŒb,015_CB09_c_056.wav,,,,chie,,1,tenka,,0,,Really!? Then I'll do my best!
-165800 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,015_CB09_k_031.wav,komako,,20,chie,,1,tenka,,0,,"Cheer up, Chee-chan!'' or ''Come on, Chee-chan!'' (context-dependent)  (Note: Since the exact translation can vary based on context, here are two common interpretations.)  For a more literal translation: ''Chee-chan, fight!"
+165800 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,015_CB09_k_031.wav,komako,,20,chie,,1,tenka,,0,,"''Come on, Chee-chan!''"
 165900 ,,,,,,,“[‰Ô,“[‰Ô,015_CB09_t_063.wav,komako,,20,chie,,1,tenka,,38,,"If Chii loses, buy me some ice cream, okay?"
 166000 ,,,,,,,çŒb,çŒb,015_CB09_c_057.wav,komako,,20,chie,,24,tenka,,38,,"N-no, not like that! It's totally impossible!"
-166100 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,015_CB09_k_032.wav,komako,,21,chie,,24,tenka,,38,,"Cheer up, Chi-chan!'' or ''Come on, Chi-chan!'' (context-dependent)  (Note: Since the exact translation can vary based on context, here are two common interpretations.)  For a more precise translation, please provide additional context.  --- **If you want the most literal translation:** ''Chi-chan, fight!"
+166100 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,015_CB09_k_032.wav,komako,,21,chie,,24,tenka,,38,,"''Come on, Chi-chan!''"
 166200 ,,<!timepass_short>,,12,,,,,,,,,,,,,,,,"Laughing loudly, the three beautiful young girls set off on their way home. I also stepped outside the store and kept waving until their figures were no longer visible."
 166300 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,,,,,Well then...
 166400 ,,,,,,,,,,,,,,,,,,,,"Locking up the shop, preparing the ballots, deciding on the voting rules, and then jerking off with a midday panty image... there's a mountain of things to do."
@@ -1478,7 +1478,7 @@
 168700 ,,,,,,,,,,,,,,,,,,,,"Oh, uh... yeah, that's right. Even for poster photos, center disputes can happen, can't they?"
 168800 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,,,,,"Well, let's see... how about we line up in alphabetical order from left to right? That way, it'll be fair, right?"
 168900 ,,,,,,,“[‰Ô,“[‰Ô,016_CB10_t_003.wav,,,,,,,tenka,,29,,...Got it. So that's fine.
-169000 ,,,,,,,,,,,,,,,,,,,,"So, in that order, it's Amanohana-chan, Komako-chan, and Chi-chan."
+169000 ,,,,,,,,,,,,,,,,,,,,"So, in that order, it's Tenka-chan, Komako-chan, and Chi-chan."
 169100 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,,,,,"Ah, I almost forgot to give you this before we start shooting."
 169200 ,,,,,,,çŒb,çŒb,016_CB10_c_002.wav,,,,chie,,3,,,,,What is this? A name tag?
 169300 ,,,,,,,ålŒö,ƒ–¼„,,,,,chie,,3,,,,,"That's right. You have to make sure the names are clear enough, otherwise, you might get voted incorrectly."
@@ -1522,17 +1522,17 @@
 173500 ,,,,,,,,,,,,,,,,,,,,Snack Shop Idol DG48 - Center Snatch General Election Held!
 173600 ,,,,,,,,,,,,,,,,,,,,"I wonder if the text was a bit too long... Maybe the balance was off... and I'm scratching my head. Well, it's made by an amateur, so I guess it's like this."
 173700 ,,,,,,,“[‰Ô,“[‰Ô,016_CB10_t_013.wav,,,,,,,tenka,,3,,Idol...
-173800 ,,,,,,,,,,,,,,,,,,,,"Amanohana-chan is staring intently at the poster, her cheeks flushed."
+173800 ,,,,,,,,,,,,,,,,,,,,"Tenka-chan is staring intently at the poster, her cheeks flushed."
 173900 ,,,,,,,,,,,,,,,,,,,,"Even though I'm starting my activities as an idol based in a country candy shop, I'm so happy I can't help it."
-174000 ,,,,,,,,,,,,,,,,,,,,"I want to keep looking at Amanohana-chan's profile forever. But if I keep doing that, I won't be able to start the general election..."
-174100 ,,,,,,,,,,,,,,,,,,,,I forced myself to pull my gaze away from Amanohana-chan with my willpower.
+174000 ,,,,,,,,,,,,,,,,,,,,"I want to keep looking at Tenka-chan's profile forever. But if I keep doing that, I won't be able to start the general election..."
+174100 ,,,,,,,,,,,,,,,,,,,,I forced myself to pull my gaze away from Tenka-chan with my willpower.
 174200 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,,,,,"Then, I'll explain the election rules to everyone."
 174300 ,,,,,,,,,,,,,,,,,,,,Give three people the ballots I made yesterday. They are simple ones with just the three names written on small slips of paper.
 174400 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,,,,,"Please hand this voting ticket to the customer who did the shopping. Hand it to customers who spent 30 yen on shopping, okay?"
 174500 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,,,,,"If you give it to every customer who comes into the store, there might be cases of fraudulent voting, you know."
 174700 ,,,,,,,“[‰Ô,“[‰Ô,016_CB10_t_014.wav,,,,,,,tenka,,18,,"It means that a ballot comes with the KGB48 CD, just like that."
 174800 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,016_CB10_k_009.wav,komako,,3,,,,tenka,,18,,Those who buy a lot will receive a lot of voting tickets.
-174900 ,,,,,,,ålŒö,ƒ–¼„,,komako,,3,,,,tenka,,18,,"Got it. Here's the translation:  ''Okay, so just put your ballot in this ballot box. So do your best to promote yourself and make a good pitch, and work hard to get their vote!''"
+174900 ,,,,,,,ålŒö,ƒ–¼„,,komako,,3,,,,tenka,,18,,"Got it. Here's the translation:  ''Put your ballot in this ballot box. Do your best to promote yourself and make a good pitch, and work hard to get their vote!''"
 175000 ,,,,,,,çŒb,çŒb,016_CB10_c_010.wav,komako,,3,chie,,3,tenka,,20,,"What does ''urikomi'' mean, and what should I do about it?"
 175100 ,,,,,,,ålŒö,ƒ–¼„,,komako,,3,chie,,3,tenka,,20,,"Hmmm, ..., there are various ways to do it. Like finding what the customer wants from inside the store or something."
 175200 ,,,,,,,“[‰Ô,“[‰Ô,016_CB10_t_015.wav,komako,,3,chie,,3,tenka,,38,,"What kind of pitch to make is also part of the job as an idol, you know."
@@ -1569,7 +1569,7 @@
 178400 ,,,,,,,ålŒö,ƒ–¼„,,,,,chie,,1,,,,,"Probably, that old man called me over."
 178500 ,,,,,,,,,,,,,,,,,,,,"After Uncle came back, after a while, customers started coming in a few at a time."
 178600 ,,,,,,,,,,,,,,,,,,,,"In the countryside, information like this spreads so quickly."
-178700 ,,,,,,,,,,,,,,,,,,,,"If, hypothetically, I were to touch one of Chichan, Komako-chan, or Amanohana-chan, the rumor would spread like wildfire, wouldn't it?"
+178700 ,,,,,,,,,,,,,,,,,,,,"If, hypothetically, I were to touch one of Chichan, Komako-chan, or Tenka-chan, the rumor would spread like wildfire, wouldn't it?"
 178800 ,,,,,,,,,,,,,,,,,,,,"When you think about it like that, it's terrifying. You have to be careful with your actions."
 178900 ,,<!move_veryshort>,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,016_CB10_k_014.wav,komako,,20,,,,,,,,"The kinako stick is also delicious. Since it's a hit, maybe I can eat another one."
 179000 ,,,,,,,,,,komako,,20,,,,,,,,"Oh, Komako-chan is talking to a boy around her age."
@@ -1577,12 +1577,12 @@
 179200 ,,,,,,,,,,komako,,20,,,,,,,,Komako-chan won't do it! Get out! ...I feel like I want to yell that.
 179300 ,,,,,,,“[‰Ô,“[‰Ô,016_CB10_t_020.wav,,,,,,,tenka,,0,,"Who have you decided to vote for? If you're struggling, I'd like you to vote for me."
 179400 ,,,,,,,,,,,,,,,,tenka,,0,,Amakurachan slips between Komakochan and the boy.
-179500 ,,,,,,,,,,,,,,,,tenka,,0,,"Among the three, the one who puts the most effort into sales is Amanohana-chan. I can feel her strong will to become the center."
+179500 ,,,,,,,,,,,,,,,,tenka,,0,,"Among the three, the one who puts the most effort into sales is Tenka-chan. I can feel her strong will to become the center."
 179600 ,,,,,,,,,,,,,,,,tenka,,0,,"But maybe it's a bit too intense, I think sometimes. There have been times when I've recommended expensive snacks and been turned down."
 179700 ,,,,,,,“[‰Ô,“[‰Ô,016_CB10_t_021.wav,,,,,,,tenka,,38,,"If you buy 90 yen worth of items, you get three voting tickets, so everyone can vote too... ah, of course, you can all vote for me if you want!"
 179800 ,,,,,,,“[‰Ô,“[‰Ô,016_CB10_t_022.wav,,,,,,,tenka,,21,,"You don't have that much money, huh? Oh, I see... That's too bad. How about these snacks over here?"
 180000 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,,komako,,23,,,,,,,,......
-180100 ,,,,,,,ålŒö,ƒ–¼„,,komako,,23,,,,,,,,"Komako-chan, the customer got taken by Amanohana-chan, huh."
+180100 ,,,,,,,ålŒö,ƒ–¼„,,komako,,23,,,,,,,,"Komako-chan, the customer got taken by Tenka-chan, huh."
 180400 ,,,,,,,ålŒö,ƒ–¼„,,komako,,23,,,,,,,,"Oh, I see... then that's good."
 180500 ,,,,,,,,,,komako,,23,,,,,,,,"The two of them are watching chi-chan. Desperately explaining their favorite snacks to the old lady, as if to say, ''Forget about voting!''"
 180600 ,,,,,,,çŒb,çŒb,016_CB10_c_015.wav,,,,chie,,21,,,,,It's super delicious! I think Grandma will say it's delicious too!
@@ -1602,7 +1602,7 @@
 182200 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,,,,,"Finally, the customers are gone.... So, shall we all start preparing to leave?"
 182300 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,016_CB10_k_019.wav,komako,,4,,,,,,,,Is it already that time?
 182400 ,,,,,,,“[‰Ô,“[‰Ô,016_CB10_t_024.wav,,,,,,,tenka,,29,,"You bought less than I thought, huh?"
-182500 ,,,,,,,,,,,,,,,,,,,,"Amanohana-chan lets out a dissatisfied voice. Indeed, there were more customers than usual, but in terms of sales, it wasn't much different from usual."
+182500 ,,,,,,,,,,,,,,,,,,,,"Tenka-chan lets out a dissatisfied voice. Indeed, there were more customers than usual, but in terms of sales, it wasn't much different from usual."
 182600 ,,,,,,,,,,,,,,,,,,,,Many people probably came just to see what's going on with the ''general election'' being so interesting.
 182700 ,,,,,,,çŒb,çŒb,016_CB10_c_019.wav,,,,chie,,1,,,,,I was so happy to have such a long chat!
 182800 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,016_CB10_k_020.wav,komako,,34,,,,,,,,I'm tired.
@@ -1679,7 +1679,7 @@
 195200 ,,,,,,,,,,,,,,,,,,,,"The counting of votes will be done from tomorrow onward... but first, we should thank everyone for their efforts in the election campaign."
 195300 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,,,,,"Everyone, do you have any plans for tomorrow?"
 195400 ,,,,,,,çŒb,çŒb,017_CB11_c_006.wav,,,,chie,,3,,,,,Nothing special.
-195500 ,,,,,,,,,,,,,chie,,3,,,,,Komako-chan and Amanohana-chan also shake their heads from side to side.
+195500 ,,,,,,,,,,,,,chie,,3,,,,,Komako-chan and Tenka-chan also shake their heads from side to side.
 195600 ,,,,,,,ålŒö,ƒ–¼„,,,,,chie,,3,,,,,"Well then, as a reward for working hard on your idol activities, let's go out and play tomorrow."
 195700 ,,,,,,,çŒb,çŒb,017_CB11_c_007.wav,,,,chie,,21,,,,,Yattaa! Where? Where are you going?
 195800 ,,,,,,,ålŒö,ƒ–¼„,,,,,chie,,21,,,,,"Uncle already thought about it, but where should it be?"
@@ -1714,7 +1714,7 @@
 198800 ,,,,,,,çŒb,çŒb,017_CB11_c_016.wav,,,,chie,,1,,,,,"Then, see you at the store at our usual time tomorrow!"
 198900 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,017_CB11_k_013.wav,komako,,1,chie,,1,,,,,"Okay, got it!"
 199000 ,,,,,,,“[‰Ô,“[‰Ô,017_CB11_t_013.wav,komako,,1,chie,,1,tenka,,1,,"Don't be late, everyone\!"
-199200 ,,<!timepass_short>,,33,,,,,,,,,,,,,,,,"Everyone sees them off as they leave and then locks the doors. Honestly, just thinking about seeing the three in their swimsuits puts my penis in a full-bock state."
+199200 ,,<!timepass_short>,,33,,,,,,,,,,,,,,,,"Everyone sees them off as they leave and then locks the doors. Honestly, just thinking about seeing the three in swimsuits puts my penis in a full-bock state."
 199300 ,,,,,,,,,,,,,,,,,,,,"I thought I should save my energy for tomorrow, but I shouldn't give in to my lust and do unnecessary things. I'll let it out with masturbation today as well."
 199400 ,,,,,,,,,,,,,,,,,,,,I opened my smartphone's image folder and used pictures of beautiful girls' panties as stimulation while masturbating repeatedly.
 199500 ,,<!Lend_night>,0,9000,,,,,,,,,,,,,,,,
@@ -1728,7 +1728,7 @@
 200600 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,018_CB12_k_000.wav,,,,,,,,,,,The weather is really nice. It's perfect for going swimming.
 200700 ,,<!move_short>,,11,,,ålŒö,ƒ–¼„,,"komako,privateB",,0,"chie,privateC",,1,"tenka,privateC",",0,,'Everyone, good morning. Did I get permission to go to the riverbank?'"
 200800 ,,,,,,,çŒb,çŒb,018_CB12_c_001.wav,komako,,0,chie,,1,tenka,,1,,"I got it! If it's with Uncle, that's fine!"
-200900 ,,,,,,,,,,komako,,0,chie,,1,tenka,,1,,"Komako-chan and Amanohana-chan also nod. It seems that, as the owner of the candy shop, he is trusted to some extent."
+200900 ,,,,,,,,,,komako,,0,chie,,1,tenka,,1,,"Komako-chan and Tenka-chan also nod. It seems that, as the owner of the candy shop, he is trusted to some extent."
 201000 ,,,,,,,ålŒö,ƒ–¼„,,komako,,0,chie,,1,tenka,,1,,"Well then, let's pick out some snacks first... hey, what happened to the luggage?"
 201100 ,,,,,,,çŒb,çŒb,018_CB12_c_002.wav,,,,chie,,3,,,,,Luggage? There's nothing.
 201200 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,018_CB12_k_001.wav,komako,,23,chie,,3,,,,,"Since you're going to the riverbank, you don't need anything special."
@@ -1767,13 +1767,13 @@
 205900 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,018_CB12_k_007.wav,komako,,20,,,,,,,,"...... Chii-chan, your skin is so smooth. You're really beautiful."
 206000 ,,,,,,,çŒb,çŒb,018_CB12_c_014.wav,,,,chie,,21,,,,,"Eh heh~, thanks! I get all flustered when Komachan says that~."
 206100 ,,,,,,,“[‰Ô,“[‰Ô,018_CB12_t_005.wav,,,,,,,tenka,,34,,......
-206200 ,,,,,,,,,,,,,,,,tenka,,34,,"Suddenly, the sight of Amanohana-chan looking bored appeared in my vision. With both hands behind her back, she was slouching and walking just one step behind us."
+206200 ,,,,,,,,,,,,,,,,tenka,,34,,"Suddenly, the sight of Tenka-chan looking bored appeared in my vision. With both hands behind her back, she was slouching and walking just one step behind us."
 206300 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,018_CB12_k_008.wav,komako,,20,,,,tenka,,34,,Am I holding hands with Amanohana too?
 206400 ,,,,,,,“[‰Ô,“[‰Ô,018_CB12_t_006.wav,komako,,20,,,,tenka,,31,,"W-well, it's fine..."
 206500 ,,,,,,,çŒb,çŒb,018_CB12_c_015.wav,,,,chie,,4,tenka,,31,,Why? It's definitely more fun if we all connect together!
 207000 ,,,,,,,“[‰Ô,“[‰Ô,018_CB12_t_008.wav,,,,,,,tenka,,16,,Well then... uh...
 207100 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,018_CB12_k_009.wav,komako,,21,,,,tenka,,16,,''un'' or ''n'' (interjection)
-207200 ,,,,,,,,,,,,,,,,,,,,"Komako-chan and Amanohana-chan hold hands. It's lonely that they didn't come to me, but if Amanohana-chan is happy, then that's fine."
+207200 ,,,,,,,,,,,,,,,,,,,,"Komako-chan and Tenka-chan hold hands. It's lonely that they didn't come to me, but if Tenka-chan is happy, then that's fine."
 207300 ,,,,,,,,,,,,,,,,,,,,"But if one hand is free, I end up wanting to touch my cock."
 207400 ,,,,,,,,,,,,,,,,,,,,"I tucked my free hand into my pocket, adjusted the position of my erect penis, and gently stimulated the tip with my fingertips."
 207500 ,,,,,,,,,,,,,,,,,,,,"If I climax now, it'll be a big problem. While enjoying the sensation of Chie-chan's hands, I kept stimulating my cock on the verge of cumming but couldn't come."
@@ -1791,7 +1791,7 @@
 208900 ,,,,,,,çŒb,çŒb,018_CB12_c_018.wav,komako,,27,chie,,1,,,,,Just as expected of Komachan! You're reliable!
 209000 ,,,,,,,“[‰Ô,“[‰Ô,018_CB12_t_011.wav,,,,,,,tenka,,17,,"Well, I have to make sure I don't drown, right..."
 209100 ,,,,,,,,,,,,,,,,,,,,"Koma-chan, who seems to be somewhat pleased to be relied upon by Chi-chan, was the only one seriously starting her warm-up exercises alone."
-209200 ,,,,,,,,,,,,,,,,,,,,"I'll also do some warm-up exercises with Amanohana-chan. Since I'm not young anymore and haven't been getting enough exercise, moving suddenly might lead to trouble."
+209200 ,,,,,,,,,,,,,,,,,,,,"I'll also do some warm-up exercises with Tenka-chan. Since I'm not young anymore and haven't been getting enough exercise, moving suddenly might lead to trouble."
 209300 ,,,,,,,,,,,,,,,,,,,,"My body isn't lacking exercise, except maybe just my penis."
 209400 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,018_CB12_k_012.wav,komako,,20,,,,,,,,Let's do some warm-up exercises too.
 209500 ,,,,,,,çŒb,çŒb,018_CB12_c_019.wav,komako,,20,chie,,1,,,,,Yeah! Then let's do it together!
@@ -1830,7 +1830,7 @@
 212900 ,,,,,,,çŒb,çŒb,018_CB12_c_026.wav,,,,chie,,1,,,,,"Chii-chan, first to board!!"
 213000 ,,,,,,,“[‰Ô,“[‰Ô,018_CB12_t_019.wav,,,,,,,tenka,,10,,"Ah, that's not fair!"
 213100 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,018_CB12_k_020.wav,komako,,4,,,,,,,,Wait...
-213200 ,,,,,,,,,,,,,,,,,,,,Chi-chan is followed by Amanohana-chan and Komako-chan as they chase after her.
+213200 ,,,,,,,,,,,,,,,,,,,,Chi-chan is followed by Tenka-chan and Komako-chan as they chase after her.
 213400 ,,<!se_inaka_river>,,,,,,,,,,,,,,,,,,
 213500 ,,<!se_water_dive>,,,,,çŒb,çŒb,018_CB12_c_027.wav,,,,chie,,21,,,,,Wow~! It's so cold and feels great~!!
 213600 ,,,,,,,“[‰Ô,“[‰Ô,018_CB12_t_020.wav,,,,,,,tenka,,24,,Hyaaah! The river is this cold...!
@@ -1857,10 +1857,10 @@
 215900 ,,,,,4220000,,,,,,,,,,,,,,,"Did my half-hearted cheering spark something, or did Chi-chan turn to a counterattack?"
 216000 ,,<!se_water_play1><!se_water_play4>,,,4220000,,çŒb,çŒb,018_CB12_c_034.wav,,,,chie,,0,,,,,Oriya-riya-riya-riya! Now what do you think of this~!
 216100 ,,<!se_water_play3>,,,4220000,,“[‰Ô,“[‰Ô,018_CB12_t_024.wav,,,,tenka,,0,,,,,"Wow, that's amazing... kyaaa!!"
-216200 ,,,,,4220000,,,,,,,,,,,,,,,"The moment water splashed on her, Amanohana-chan slipped on her feet."
+216200 ,,,,,4220000,,,,,,,,,,,,,,,"The moment water splashed on her, Tenka-chan slipped on her feet."
 216300 ,,,,,4220000,,ålŒö,ƒ–¼„,,,,,,,,,,,,"Ah, that's dangerous!"
 216400 ,,<!se_water_play4>,,,4220000,,ƒRƒ}ƒR,ƒRƒ}ƒR,018_CB12_k_024.wav,,,,komako,,0,,,,,\Ah! That was close...
-216500 ,,,,,4220000,,,,,,,,,,,,,,,"In a split second, Komako-chan reached out her hand to save Amanohana-chan."
+216500 ,,,,,4220000,,,,,,,,,,,,,,,"In a split second, Komako-chan reached out her hand to save Tenka-chan."
 216600 ,,,,,4220000,,ƒRƒ}ƒR,ƒRƒ}ƒR,018_CB12_k_025.wav,,,,komako,,0,,,,,"This area is slippery, so... be careful, okay?"
 216700 ,,,,,4220000,,“[‰Ô,“[‰Ô,018_CB12_t_025.wav,,,,tenka,,0,,,,,"Ah, thanks.... Already! It's because Chiya does unnecessary things!"
 216800 ,,,,,4220000,,çŒb,çŒb,018_CB12_c_035.wav,,,,chie,,0,,,,,Oh no! I'm sorry!
@@ -1873,7 +1873,7 @@
 217500 ,,,,,,,,,,,,,,,,,,,,
 217600 ,,,,,,,“[‰Ô,“[‰Ô,018_CB12_t_027.wav,,,,tenka,,24,,,,,"Wait a minute! The current is strong, so it's a bit hard to walk..."
 217700 ,,,,,,,,,,,,,,,,,,,,
-217800 ,,,,,,,,,,,,,,,,,,,,......and Komako-chan stopped halfway and turned back toward the shore. Chi-chan and Tianhua-chan went deeper without a care.
+217800 ,,,,,,,,,,,,,,,,,,,,......and Komako-chan stopped halfway and turned back toward the shore. Chi-chan and Tenka-chan went deeper without a care.
 217900 ,,,,,,,,,,,,,,,,,,,,"Everyone is gradually going farther and farther away... I could just keep watching like this, but that would be a little boring."
 218000 ,,,,,,,,,,,,,,,,,,,,Hmm... what should I do?
 218100 ,$menu_begin,,,,,,,,,,,,,,,,,,,Multiple-choice options
@@ -1883,10 +1883,10 @@
 «,$menu_end,,,,,,,,,,,,,,,,,,,
 218300 ,@019_CB12S,,,,,,,,,,,,,,,,,,,çŒbƒtƒ‰ƒO{‚P
 218400 ,"$fadd %chie%,1",,,,,,,,,,,,,,,,,,","
-218600 ,,<!Lbegin_continue>,2,101,,,,,,,,,,,,,,,,"Okay, let's go to Chi-chan's place. We were supposed to go swimming with Amanohana-chan together."
+218600 ,,<!Lbegin_continue>,2,101,,,,,,,,,,,,,,,,"Okay, let's go to Chi-chan's place. We were supposed to go swimming with Tenka-chan together."
 218700 ,,,,,,,,,,,,,,,,,,,,"I'm a little worried about leaving Komako-chan alone, but since I'm heading toward the luggage area, she'll probably be fine."
 218800 ,,,,,,,,,,,,,,,,,,,,"If that's decided, then we'll start moving immediately."
-218900 ,,<!move_veryshort>,,,,,,,,,,,,,,,,,,"Walking downstream along the riverbank for a while, two small figures appeared in the distance: Chi-chan and Tianhua-chan."
+218900 ,,<!move_veryshort>,,,,,,,,,,,,,,,,,,"Walking downstream along the riverbank for a while, two small figures appeared in the distance: Chi-chan and Tenka-chan."
 219000 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,,,,,......!
 219100 ,,,,,,,,,,,,,,,,,,,,"Just as I was about to call out, ''Hey!'' I hurriedly covered my mouth."
 219200 ,,,,,,,,,,,,,,,,,,,,The two girls in swimsuits walking ahead. There's no way not to watch them.
@@ -1900,7 +1900,7 @@
 220000 ,,,,,,,“[‰Ô,“[‰Ô,019_CB12S_t_000.wav,,,,chie,,1,"tenka,swim",,32,",'Hey, where are you headed?'"
 220100 ,,,,,,,çŒb,çŒb,019_CB12S_c_001.wav,,,,chie,,1,tenka,,32,,It's up ahead! I've wanted to go there from the front for a long time!
 220200 ,,,,,,,“[‰Ô,“[‰Ô,019_CB12S_t_001.wav,,,,chie,,1,tenka,,3,,"Hmm, well, anywhere is fine."
-220300 ,,,,,,,,,,,,,,,,,,,,"Well, even so, Amanohana-chan has some bold swimsuits. Are all city kids like that?"
+220300 ,,,,,,,,,,,,,,,,,,,,"Well, even so, Tenka-chan has some bold swimsuits. Are all city kids like that?"
 220400 ,,,,,,,,,,,,,,,,,,,,"Swimsuits like the school one are nice, but these kinds of swimsuits aren't bad either, huh..."
 220500 ,,,,,,,,,,,,,,,,,,,,"Ah, it's so fascinating to watch. I could just keep looking at it forever..."
 220600 ,,,,,,,çŒb,çŒb,019_CB12S_c_002.wav,,,,chie,,3,,,,,...hmm?
@@ -1916,14 +1916,14 @@
 221600 ,,,,,,,,,,,,,,,,,,,,"It's such a rare chance to play in the water with such cute kids. If I let this opportunity slip by, I'll regret it forever."
 221700 ,,,,,,,,,,,,,,,,,,,,"This time, carefully watching your step, you head toward chi-chan's place."
 221800 ,,<!move_veryshort>,,,,,“[‰Ô,“[‰Ô,019_CB12S_t_002.wav,,,,,,,tenka,,3,,...Is the uncle okay?
-221900 ,,,,,,,,,,,,,,,,tenka,,3,,Tianhua-chan is staring at me.
+221900 ,,,,,,,,,,,,,,,,tenka,,3,,Tenka-chan is staring at me.
 222000 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,tenka,,3,,"Yeah, I'm fine! I almost twisted my ankle, though..."
 222100 ,,,,,,,“[‰Ô,“[‰Ô,019_CB12S_t_003.wav,,,,,,,tenka,,9,,"If everything's okay with that, then it's fine. But if I can't move here, it'll be a problem..."
-222200 ,,,,,,,,,,,,,,,,tenka,,9,,"Uuuu, you're worried about me, right, Tianhua-chan... I'm really happy about that..."
+222200 ,,,,,,,,,,,,,,,,tenka,,9,,"Uuuu, you're worried about me, right, Tenka-chan... I'm really happy about that..."
 222300 ,,,,,,,çŒb,çŒb,019_CB12S_c_005.wav,,,,chie,,25,tenka,,9,,"Hey, Dad, you gotta be careful, okay? There are a lot of big rocks around here!"
 222400 ,,,,,,,,,,,,,chie,,25,tenka,,9,,"Chii-chan got scolded by everyone. Hmm, I'll be careful. There really seem to be a lot of dangers around the riverbank."
 222500 ,,,,,,,“[‰Ô,“[‰Ô,019_CB12S_t_004.wav,,,,chie,,25,tenka,,3,,"Or rather, what about Komako?"
-222600 ,,,,,,,,,,,,,chie,,25,tenka,,3,,"Tianhua-chan peeking around behind me, looking this way and that."
+222600 ,,,,,,,,,,,,,chie,,25,tenka,,3,,"Tenka-chan peeking around behind me, looking this way and that."
 222700 ,,,,,,,ålŒö,ƒ–¼„,,,,,chie,,25,tenka,,3,,"Ah, yeah. Komako-chan said she was going to the baggage area or something. Maybe she forgot something?"
 222800 ,,,,,,,çŒb,çŒb,019_CB12S_c_006.wav,,,,chie,,1,tenka,,3,,"It's okay! Unlike uncle, Komachan often comes here!"
 222900 ,,,,,,,“[‰Ô,“[‰Ô,019_CB12S_t_005.wav,,,,chie,,1,tenka,,23,,That might be right too.... Then let's go quickly.
@@ -1948,7 +1948,7 @@
 224900 ,,,,,,,çŒb,çŒb,019_CB12S_c_011.wav,,,,chie,,21,,,,,Yeah! Everyone's jumping in from over there!
 225000 ,,,,,,,,,,,,,chie,,21,,,,,"Chii-chan, pointing at the top of the rock and saying, ''There, there.''"
 225100 ,,,,,,,,,,,,,chie,,21,,,,,"Hmm, it's pretty high, but the river is deep so I guess there won't be any injuries. But... yeah..."
-225200 ,,,,,,,ålŒö,ƒ–¼„,,,,,chie,,21,,,,,Does Komako-chan or Amanohana-chan dive in?
+225200 ,,,,,,,ålŒö,ƒ–¼„,,,,,chie,,21,,,,,Does Komako-chan or Tenka-chan dive in?
 225300 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,019_CB12S_k_000.wav,"komako,swim",,14,chie,,21,,,,",'This is the first time I've come here, but... if Chii-chan jumps in with me... then it's okay...'"
 225400 ,,,,,,,,,,komako,,14,chie,,21,,,,,"That's so weak, Komako-chan."
 225500 ,,,,,,,,,,komako,,14,chie,,21,,,,,"It might be something like, ''I'm actually scared, but if I'm with chi-chan, I can probably manage to jump in.''"
@@ -1959,8 +1959,8 @@
 226000 ,,,,,,,“[‰Ô,“[‰Ô,019_CB12S_t_007.wav,,,,,,,tenka,,30,,I've never done that kind of play in the city... the rocks are too high.
 226100 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,tenka,,30,,"Yeah, yeah. I think that reaction is normal. Even that height is scary, right?"
 226200 ,,,,,,,“[‰Ô,“[‰Ô,019_CB12S_t_008.wav,,,,,,,tenka,,34,,"......Yeah, right! Uncle thinks so too, right?"
-226300 ,,,,,,,,,,,,,,,,tenka,,34,,Tianhua-chan let out a sigh of relief and patted her chest.
-226400 ,,,,,,,,,,,,,,,,tenka,,34,,"For a modern kid like Amanohana-chan, it seems pretty tough. Yeah, I get it. Even I'd find it hard."
+226300 ,,,,,,,,,,,,,,,,tenka,,34,,Tenka-chan let out a sigh of relief and patted her chest.
+226400 ,,,,,,,,,,,,,,,,tenka,,34,,"For a modern kid like Tenka-chan, it seems pretty tough. Yeah, I get it. Even I'd find it hard."
 226500 ,,,,,,,çŒb,çŒb,019_CB12S_c_012.wav,,,,chie,,0,,,,,"Hmmmm, then today, let's go do some Dob'n with oj'chan together, huh~!"
 226600 ,,,,,,,ålŒö,ƒ–¼„,,,,,chie,,0,,,,,...huh?
 226700 ,,,,,,,çŒb,çŒb,019_CB12S_c_013.wav,,,,chie,,1,,,,,"'Not 'eh?'! Uncle's doing his first 'dove' today, so I'll fly with you, little sister!'"
@@ -2035,7 +2035,7 @@
 234400 ,,,,,1110000,,,,,,,,,,,,,,,"This... this is... something indescribable. It's a bit painful, but not that painful. It's a ticklish, strange sensation."
 234500 ,,,,,1110000,,ƒRƒ}ƒR,ƒRƒ}ƒR,019_CB12S_k_004.wav,,,,komako,,0,,,,,"Cheer up, Chi-chan!'' or ''Do your best, Chi-chan!"
 234600 ,,,,,1110000,,“[‰Ô,“[‰Ô,019_CB12S_t_011.wav,,,,tenka,,0,,,,,"Chii, fight......!"
-234700 ,,,,,1110000,,,,,,,,,,,,,,,Komako-chan and Amanohana-chan also seem to be cheering for chi-chan.
+234700 ,,,,,1110000,,,,,,,,,,,,,,,Komako-chan and Tenka-chan also seem to be cheering for chi-chan.
 234800 ,,,,,1110000,,çŒb,çŒb,019_CB12S_c_024.wav,,,,chie,,0,,,,,Uh... uh... is this around here...? Uh... uh...
 234900 ,,,,,1110000,,,,,,,,,,,,,,,Chii-chan desperately presses her chest area.
 235000 ,,,,,1110000,,,,,,,,,,,,,,,"On top of me, a cute girl is doing up-and-down movements over and over again. It's like cowgirl."
@@ -2071,7 +2071,7 @@
 238100 ,,,,,1110010,,çŒb,çŒb,019_CB12S_c_032.wav,,,,chie,,0,,,,,So... around the area of Chi-chan's butt...?
 238200 ,,,,,1110010,,,,,,,,,,,,,,,"Well, it's bad! It's over... over, my son!"
 238300 ,,,,,1110010,,,,,,,,,,,,,,,"Focus your mind\yes! At times like these, maybe you should think about mature women's panties."
-238400 ,,,,,1110010,,,,,,,,,,,,,,,"Floppy floppy pants with loose rubber bands... unlike Mr. Bear's pants or white pants, they're mature pants... mysterious, seductive pants in purple or brown, like those worn by a mature woman."
+238400 ,,,,,1110010,,,,,,,,,,,,,,,"Floppy floppy pants with loose rubber bands... unlike Mr. Bear's pants, they're mature... mysterious, seductive pants, like those worn by a mature woman."
 238500 ,,,,,1110010,,ålŒö,ƒ–¼„,,,,,,,,,,,,......
 238700 ,,,,,1110000,,“[‰Ô,“[‰Ô,019_CB12S_t_014.wav,,,,tenka,,0,,,,,......? What's moving? It's the same as before. It's not twitching at all.
 238800 ,,,,,1110000,,çŒb,çŒb,019_CB12S_c_033.wav,,,,chie,,0,,,,,"Oh no, really?! But you were moving around a lot just a moment ago, weren't you~?!"
@@ -2094,7 +2094,7 @@
 240500 ,,,,,1110000,,ƒRƒ}ƒR,ƒRƒ}ƒR,019_CB12S_k_008.wav,,,,komako,,0,,,,,"Uh, like, you know... that is..."
 240600 ,,,,,1110000,,,,,,,,,,,,,,,"Komako-chan speaks with a stammer, mumbling."
 240700 ,,,,,1110000,,,,,,,,,,,,,,,"I never thought it would come to the point of giving artificial respiration. This is a once-in-a-thousand-years opportunity, isn't it!"
-240800 ,,,,,1110000,,,,,,,,,,,,,,,"Well, it's not like I have a guilty conscience or anything. This is just a punishment for Chi-chan. It's all part of the punishment\it just so happened that I ended up doing artificial respiration as part of it!"
+240800 ,,,,,1110000,,,,,,,,,,,,,,,"Well, it's not like I have a guilty conscience or anything. This is just a punishment for Chi-chan. It just so happened that I ended up doing artificial respiration as part of it!"
 240900 ,,,,,1110000,,çŒb,çŒb,019_CB12S_c_039.wav,,,,chie,,0,,,,,"Komachan, if you know how to do a 'jin-k?-koky?,' do it! Blow into Oichan's mouth!"
 241000 ,,,,,1110000,,ƒRƒ}ƒR,ƒRƒ}ƒR,019_CB12S_k_009.wav,,,,komako,,0,,,,,"W-well, I... that... that kind of thing... with Chi-chan..."
 241100 ,,,,,1110000,,çŒb,çŒb,019_CB12S_c_040.wav,,,,chie,,0,,,,,......Chi-chan?
@@ -2104,9 +2104,9 @@
 241500 ,,,,,1110000,,,,,,,,,,,,,,,It's so fresh and nice to see Komako-chan in such a flustered state. She's super cute.
 241600 ,,,,,1110000,,çŒb,çŒb,019_CB12S_c_041.wav,,,,chie,,0,,,,,"Hmm? If Komachan can't do it... then Tenkachan, you do it!"
 241700 ,,,,,1110000,,“[‰Ô,“[‰Ô,019_CB12S_t_016.wav,,,,tenka,,0,,,,,Eh? It's me!? But that... with the old man... kissing...
-241800 ,,,,,1110000,,,,,,,,,,,,,,,"This time it's Amanohana-chan, huh? If anyone can do CPR for me, that's a big welcome!"
+241800 ,,,,,1110000,,,,,,,,,,,,,,,"This time it's Tenka-chan, huh? If anyone can do CPR for me, that's a big welcome!"
 241900 ,,,,,1110000,,,,,,,,,,,,,,,But Amakagari-chan also doesn't seem very enthusiastic about it.
-242000 ,,,,,1110000,,,,,,,,,,,,,,,Maybe...... does Amanohana-chan also know about kissing?
+242000 ,,,,,1110000,,,,,,,,,,,,,,,Maybe...... does Tenka-chan also know about kissing?
 242100 ,,,,,1110000,,çŒb,çŒb,019_CB12S_c_042.wav,,,,chie,,0,,,,,"...Got it! So, Chi-chan is going to give Oji-chan a jin-k? koky?..."
 242200 ,,,,,1110000,,ƒRƒ}ƒR,ƒRƒ}ƒR,019_CB12S_k_011.wav,,,,komako,,0,,,,,"...no, it's no good!"
 242300 ,,,,,1110000,,çŒb,çŒb,019_CB12S_c_043.wav,,,,chie,,0,,,,,Koma-chan...?
@@ -2181,7 +2181,7 @@
 249600 ,,,,,,,“[‰Ô,“[‰Ô,019_CB12S_t_018.wav,,,,,,,tenka,,4,,Massage... success...?
 249700 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,,,,,"Yeah, that's right! Thanks to Chi-chan's massage, I was able to revive!"
 249800 ,,,,,,,,,,,,,,,,,,,,"No matter where the massage was, it was so nice, Chi-chan!"
-249900 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,,,,,"Thank you, Chi-chan! And also Komako-chan and Amanohana-chan!"
+249900 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,,,,,"Thank you, Chi-chan! And also Komako-chan and Tenka-chan!"
 250000 ,,,,,,,“[‰Ô,“[‰Ô,019_CB12S_t_019.wav,,,,,,,tenka,,23,,"Uh, ah... yeah. You're welcome..."
 250100 ,,,,,,,çŒb,çŒb,019_CB12S_c_063.wav,,,,chie,,1,,,,,"Hahaha! Since it's Chi-chan's massage, of course you'd wake up!"
 250200 ,,,,,,,,,,,,,chie,,1,,,,,"And so, chest-thumping chi-chan. Yeah, yeah, it was the best massage ever!"
@@ -2208,9 +2208,9 @@
 252300 ,,,,,,,ålŒö,ƒ–¼„,,komako,,35,,,,,,,,"Sorry, sorry. But this time it's force majeure. I almost drowned in the river, and because of that..."
 252400 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,019_CB12S_k_020.wav,komako,,29,,,,,,,,Uuuu...
 252500 ,,,,,,,çŒb,çŒb,019_CB12S_c_067.wav,,,,chie,,3,,,,,"What's up, Uncle, Komachan? What's wrong?"
-252600 ,,,,,,,,,,,,,chie,,3,,,,,"Chii-chan, who was splashing water with Amanohana-chan, came over to talk to me."
+252600 ,,,,,,,,,,,,,chie,,3,,,,,"Chii-chan, who was splashing water with Tenka-chan, came over to talk to me."
 252700 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,019_CB12S_k_021.wav,komako,,4,,,,,,,,N-nothing at all......!
-252800 ,,,,,,,,,,,,,,,,,,,,Komako-chan took chi-chan's hand and went toward Amanohana-chan instead.
+252800 ,,,,,,,,,,,,,,,,,,,,Komako-chan took chi-chan's hand and went toward Tenka-chan instead.
 252900 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,,,,,Huh... huh...
 253000 ,,,,,,,,,,,,,,,,,,,,"While watching the three of them playing in the water innocently, I recalled what happened earlier."
 253100 ,,,,,,,,,,,,,,,,,,,,"I was rubbing this against Chii-chan's crotch just now, huh..."
@@ -2290,7 +2290,7 @@
 261200 ,,,,,2110000,,ƒRƒ}ƒR,ƒRƒ}ƒR,020_CB12K_k_015.wav,,,,komako,,0,,,,,What the hell? / What's up? / What's going on? / Huh? / What?
 261300 ,,,,,2110000,,,,,,,,,,,,,,,"Komako-chan looks at me with an accusing gaze, as if I had lied to her, rather than feeling relieved."
 261400 ,,,,,2110000,,,,,,,,,,,,,,,"Of course, my eyes are used to being treated like a delicacy, so I don't get flustered, but Komako-chan, who seems to dislike it, looks at me with an even stricter, cold glare."
-261500 ,,,,,2110000,,ålŒö,ƒ–¼„,,,,,,,,,,,,"Well, even if a swimsuit can protect you to some extent, sleeves like these will shift around while you're playing, so the sun will hit there, right? Then that area might turn bright red."
+261500 ,,,,,2110000,,ålŒö,ƒ–¼„,,,,,,,,,,,,"Well, even if a swimsuit can protect to some extent, sleeves like these will shift around while you're playing, so the sun will hit there! Then that area might turn bright red."
 261600 ,,,,,2110000,,,,,,,,,,,,,,,"Saying that, I pick up some sunscreen with a bit more than usual."
 261700 ,,,,,2110000,,ålŒö,ƒ–¼„,,,,,,,,,,,,"Well then, if that's the case..."
 261900 ,,,,,2110010,,,,,,,,,,,,,,,"Using the slip of the sunscreen, I slid my hand smoothly under Komako-chan's swimsuit."
@@ -2341,7 +2341,7 @@
 266500 ,,,,,2110010,,ålŒö,ƒ–¼„,,,,,,,,,,,,I think it's more normal to mess with this side rather than going straight for the crotch.
 266600 ,,,,,2110010,,ƒRƒ}ƒR,ƒRƒ}ƒR,020_CB12K_k_030.wav,,,,komako,,0,,,,,!?
 266700 ,,,,,2110010,,,,,,,,,,,,,,,"What's with that surprised look? It's kinda fun, isn't it?"
-266800 ,,,,,2110010,,ålŒö,ƒ–¼„,,,,,,,,,,,,"Komako-chan and her friends, don't they do things like touching each other's breasts with their friends? Like, when a girl's breasts start to grow a bit, they say things like 'big ones' or something."
+266800 ,,,,,2110010,,ålŒö,ƒ–¼„,,,,,,,,,,,,"Komako-chan and her friends, don't they touch each other's breasts? Like, when a girl's breasts start to grow a bit, they say things like 'big ones' or something."
 266900 ,,,,,2110010,,ƒRƒ}ƒR,ƒRƒ}ƒR,020_CB12K_k_031.wav,,,,komako,,0,,,,,"I won't do that. But..., if I can touch Chi-chan's boobs, I'd want to touch them."
 267000 ,,,,,2110010,,ålŒö,ƒ–¼„,,,,,,,,,,,,Koma-kon really lets her true feelings slip out boldly.
 267100 ,,,,,2110010,,ƒRƒ}ƒR,ƒRƒ}ƒR,020_CB12K_k_032.wav,,,,komako,,0,,,,,Hmmmmm...
@@ -2351,7 +2351,7 @@
 267600 ,,,,,2110020,,,,,,,,,,,,,,,Komako-chan lets out a voice like she has a cold in her nose.
 267700 ,,,,,2110020,,ålŒö,ƒ–¼„,,,,,,,,,,,,You sound like the other day. Are you getting turned on?
 267800 ,,,,,2110020,,ƒRƒ}ƒR,ƒRƒ}ƒR,020_CB12K_k_034.wav,,,,komako,,0,,,,,"Hmm, it feels like it's starting..."
-267900 ,,,,,2110020,,,,,,,,,,,,,,,"Well, from the start, kids who already know what ''feels good'' are easier to deal with. Since they understand that being touched a lot feels good, their resistance to being touched probably becomes thinner."
+267900 ,,,,,2110020,,,,,,,,,,,,,,,"Well, from the start, kids who already know what ''feels good'' are easier to deal with. Since they understand that being touched feels good, their resistance becomes thinner."
 268000 ,,,,,2110020,,ƒRƒ}ƒR,ƒRƒ}ƒR,020_CB12K_k_035.wav,,,,komako,,0,,,,,Faaah!!
 268100 ,,,,,2110020,,ålŒö,ƒ–¼„,,,,,,,,,,,,"Like this, I'll knead and loosen your breasts while..."
 268200 ,,,,,2110020,,ƒRƒ}ƒR,ƒRƒ}ƒR,020_CB12K_k_036.wav,,,,komako,,0,,,,,Hmm`......mnnn``......
@@ -2424,7 +2424,7 @@
 275600 ,,<!se_water_play3>,,,,,“[‰Ô,“[‰Ô,021_CB12T_t_001.wav,,,,chie,,21,tenka,,10,,Wah!? It's cold!
 275700 ,,<!se_water_play4>,,,,,çŒb,çŒb,021_CB12T_c_002.wav,,,,chie,,1,tenka,,10,,"How about it, are you done for? Hahaha, run for it!"
 275800 ,,<!se_water_play1>,,,,,“[‰Ô,“[‰Ô,021_CB12T_t_002.wav,,,,,,,tenka,,1,,"Hey, wait up there!"
-275900 ,,,,,,,,,,,,,,,,,,,,"I want to be allowed to lick Chichan and Tianhua-chan, who are playing happily in the river, from the top of their heads to their toes. Or rather, I want to lick them all over."
+275900 ,,,,,,,,,,,,,,,,,,,,"I want to be allowed to lick Chichan and Tenka-chan, who are playing happily in the river, from the top of their heads to their toes. Or rather, I want to lick them all over."
 276000 ,,,,,,,,,,,,,,,,,,,,"You said ''up to your toes,'' but your feet are in the river, so they're not visible anyway."
 276100 ,,,,,,,,,,,,,,,,,,,,"By the way, I wonder what Komako-chan is doing? It seems like she went over to the luggage area...."
 276200 ,,,,,,,,,,,,,,,,,,,,What were you thinking about?
@@ -2452,11 +2452,11 @@
 278400 ,,,,,,,çŒb,çŒb,021_CB12T_c_005.wav,komako,,21,chie,,21,tenka,,23,,Eh heh~
 278500 ,,,,,,,,,,,,,,,,,,,,Chi-chan smiling happily in response to Komako-chan's words.
 278600 ,,<!se_water_play1>,,,,,çŒb,çŒb,021_CB12T_c_006.wav,,,,chie,,0,,,,,"Both of you, come a little closer over here. This place is amazing! The water comes up to your waist!"
-278700 ,,,,,,,,,,,,,,,,,,,,"Chii-chan splashing through the river, followed by Amanohana-chan and Komako-chan."
+278700 ,,,,,,,,,,,,,,,,,,,,"Chii-chan splashing through the river, followed by Tenka-chan and Komako-chan."
 278800 ,,,,,,,,,,,,,,,,,,,,"The flow of the river is gentle unless it rains, so I think there's hardly any danger. The depth isn't enough for three people to drown."
 278900 ,,,,,,,,,,,,,,,,,,,,"And just in case, I'm keeping an eye on things."
 279000 ,,,,,,,“[‰Ô,“[‰Ô,021_CB12T_t_008.wav,,,,,,,tenka,,9,,Ah...
-279100 ,,,,,,,,,,,,,,,,tenka,,9,,"What could have happened? Suddenly, Amanohana-chan's body froze and stopped as if it had stiffened."
+279100 ,,,,,,,,,,,,,,,,tenka,,9,,"What could have happened? Suddenly, Tenka-chan's body froze and stopped as if it had stiffened."
 279200 ,,,,,,,çŒb,çŒb,021_CB12T_c_007.wav,,,,chie,,3,,,,,Tenkachan?
 279300 ,,,,,,,“[‰Ô,“[‰Ô,021_CB12T_t_009.wav,,,,,,,tenka,,16,,What should I do... I really have to pee.
 279400 ,,,,,,,,,,,,,,,,tenka,,16,,I see. That's how it is.
@@ -2466,13 +2466,13 @@
 279800 ,,,,,,,,,,,,,,,,,,,,"But there's no toilet around here, is there? Oh, right! So I'm supposed to be the toilet, huh?"
 279900 ,,,,,,,,,,,,,,,,,,,,"As I practice opening my mouth wide so I can always be their toilet, Chi-chan and Komako-chan squatted down right there."
 280000 ,,,,,,,,,,,,,,,,,,,,Get wet up to just below your shoulders.
-280100 ,,,,,,,,,,,,,,,,,,,,"It seems that I'm not the only one who's looking at them with curiosity, and Amanohana-chan is also staring at the two of them intently."
+280100 ,,,,,,,,,,,,,,,,,,,,"It seems that I'm not the only one who's looking at them with curiosity, and Tenka-chan is also staring at the two of them intently."
 280200 ,,,,,,,çŒb,çŒb,021_CB12T_c_009.wav,,,,chie,,26,,,,,Fwaaah...
 280300 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,021_CB12T_k_006.wav,komako,,22,,,,,,,,Nn...
 280400 ,,,,,,,,,,,,,,,,,,,,It seems like a suspicious voice just came through. What in the world are those two up to? Should I join in too?
 280500 ,,,,,,,,,,,,,,,,,,,,"And the two of them seemed to be enjoying themselves, shivering with pleasure... Wait, could it be...!?"
 280600 ,,,,,,,“[‰Ô,“[‰Ô,021_CB12T_t_010.wav,,,,,,,tenka,,4,,Maybe you're peeing...
-280700 ,,,,,,,,,,,,,,,,tenka,,4,,"Towa-chan has her mouth slightly open, with an expression as if she's seen something unbelievable."
+280700 ,,,,,,,,,,,,,,,,tenka,,4,,"Tenka-chan has her mouth slightly open, with an expression as if she's seen something unbelievable."
 280800 ,,,,,,,çŒb,çŒb,021_CB12T_c_010.wav,,,,chie,,0,,,,,"Yeah, that's right! Since it's a river, even if you pee, it'll just flow away, so it's fine, right? Hey, Komachan?"
 280900 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,021_CB12T_k_007.wav,komako,,13,,,,,,,,"Uh... ah, ahh..."
 281000 ,,,,,,,,,,,,,,,,,,,,What the hell is that!?
@@ -2487,24 +2487,24 @@
 281900 ,,,,,,,,,,,,,chie,,3,,,,,"After finishing her pee in the water, chi-chan called out to the stunned Amanogawa-chan."
 282000 ,,,,,,,,,,,,,,,,,,,,"Come on! There's still Amakachan left, isn't there? Come on! Even if I have to search for Amakachan's pee from the middle of the ocean, I'll find it!"
 282100 ,,,,,,,,,,,,,,,,,,,,"Whenever I can, I'll be ready by the riverbank to drink Amakachan's pee."
-282200 ,,,,,,,,,,,,,,,,,,,,"However, contrary to expectations, Amanohana-chan was,"
+282200 ,,,,,,,,,,,,,,,,,,,,"However, contrary to expectations, Tenka-chan was,"
 282300 ,,,,,,,“[‰Ô,“[‰Ô,021_CB12T_t_011.wav,,,,chie,,3,tenka,,16,,"Ah, I don't do such dirty things!"
 282400 ,,,,,,,,,,,,,chie,,3,tenka,,16,,Reject underwater peeing.
 282500 ,,,,,,,çŒb,çŒb,021_CB12T_c_012.wav,,,,chie,,23,tenka,,16,,"It's not dirty, right? There's a lot of water flowing, so a little bit is okay!"
 282600 ,,,,,,,“[‰Ô,“[‰Ô,021_CB12T_t_012.wav,,,,chie,,23,tenka,,31,,"In the city, you wouldn't do something like that!"
 282700 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,021_CB12T_k_008.wav,komako,,3,,,,tenka,,31,,We've been doing it all along.
 282800 ,,,,,,,“[‰Ô,“[‰Ô,021_CB12T_t_013.wav,komako,,3,,,,tenka,,36,,"K, kon'na o-soto de toi-re toka...... zettai iya!"
-282900 ,,,,,,,,,,,,,,,,,,,,The underwater peeing culture of the Chi-chan group was apparently a culture shock for Amanohana-chan.
+282900 ,,,,,,,,,,,,,,,,,,,,The underwater peeing culture of the Chi-chan group was apparently a culture shock for Tenka-chan.
 283000 ,,,,,,,,,,,,,,,,,,,,"By the way, I used to do standing pee too when I was younger, but do the kids these days still do it? Well, they probably do. I can tell just by looking at the kids like Chi-chan."
-283100 ,,,,,,,,,,,,,,,,,,,,"Well, it seems that such a culture isn't deeply rooted in kids like Amanohana-chan who grew up in the city."
+283100 ,,,,,,,,,,,,,,,,,,,,"Well, it seems that such a culture isn't deeply rooted in kids like Tenka-chan who grew up in the city."
 283200 ,,,,,,,,,,,,,,,,,,,,"But well, anyway... it seems Amakagari-chan doesn't pee. I had no choice but to quietly leave the riverbank, facing that unfortunate reality."
 283300 ,,,,,,,,,,,,,,,,,,,,"But... oh, I see. The kids must be peeing in the river without a care in the world. Couldn't my house's water supply be set up to draw water from this river?"
 283400 ,,,,,,,,,,,,,,,,,,,,"I couldn't drink the pee, but let's get back to the job of looking at the three of them after regaining my composure."
-283500 ,,,,,,,,,,,,,,,,,,,,"Then, Amanohana-chan came up from the river. She's heading toward me."
+283500 ,,,,,,,,,,,,,,,,,,,,"Then, Tenka-chan came up from the river. She's heading toward me."
 283600 ,,,,,,,“[‰Ô,“[‰Ô,021_CB12T_t_014.wav,,,,,,,"tenkaL,swim",,11,",'Uncle, I want to go to the bathroom.'"
 283700 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,tenkaL,,11,,"Oh, that's a problem. There aren't any restrooms around here, huh..."
 283800 ,,,,,,,,,,,,,,,,tenkaL,,11,,"It's so raw, the way she's sitting with her legs spread like that. She must be holding it in, ready to spill at any moment."
-283900 ,,,,,,,,,,,,,,,,tenkaL,,11,,"When it comes to the urge to urinate, if you don't pay attention to it, it's not that big of a deal, but the moment you think, 'Oh, I need to pee right now,' you suddenly feel an overwhelming urge to go."
+283900 ,,,,,,,,,,,,,,,,tenkaL,,11,,"When it comes to the urge to urinate, if you don't pay attention to it, it's not that big of a deal, but the moment you think about it, you suddenly feel an overwhelming urge."
 284000 ,,,,,,,,,,,,,,,,tenkaL,,11,,"In my case, when I think, ''Ah, I want to jerk off right now,'' my erection doesn't subside for a while."
 284100 ,,,,,,,“[‰Ô,“[‰Ô,021_CB12T_t_015.wav,,,,,,,tenkaL,,9,,Uuuu... it's leaking...
 284200 ,,,,,,,,,,,,,,,,tenkaL,,9,,"She's pressing her thighs together as she complains about her urge to pee, and it's so damn cute. I'd want to make her into a figurine and display her like that."
@@ -2528,7 +2528,7 @@
 286000 ,,,,,,,“[‰Ô,“[‰Ô,021_CB12T_t_021.wav,,,,,,,tenkaL,,33,,...I see.
 286100 ,,,,,,,,,,,,,,,,tenkaL,,33,,"Reluctantly, very reluctantly, Amikachan finally gave her consent."
 286200 ,,,,,,,,,,,,,,,,tenkaL,,33,,"So, yeah. If I just leave without saying anything, maybe Chi-chan and Komako-chan will come looking for us."
-286300 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,,,,,"Sorry! Uncle, I'll take Amanohana-chan to the bathroom for a second!"
+286300 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,,,,,"Sorry! Uncle, I'll take Tenka-chan to the bathroom for a second!"
 286400 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,,,,,"Play together, but don't do anything dangerous, okay!"
 286500 ,,,,,,,çŒb,çŒb,021_CB12T_c_012a,komako,,1,chie,,1,,,,,Hai-yah!
 286600 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,021_CB12T_k_009.wav,komako,,1,chie,,1,,,,,Hai!
@@ -2547,16 +2547,16 @@
 287900 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,tenkaL,,31,,"That's right, that's right, yeah. Yeah, yeah. That's it! Uncle is keeping a close watch, so feel free to pee!"
 288000 ,,,,,,,“[‰Ô,“[‰Ô,021_CB12T_t_026.wav,,,,,,,tenkaL,,31,,"If someone comes, let me know right away, okay? Really, please keep an eye on it?"
 288100 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,tenkaL,,31,,Leave it to me!
-288200 ,,,,,,,,,,,,,,,,,,,,"In a hurry, I turned my back to Amanohana-chan and left the thicket\pretending to do so."
+288200 ,,,,,,,,,,,,,,,,,,,,"In a hurry, I turned my back to Tenka-chan and left the thicket\pretending to do so."
 288300 ,,,,,,,,,,,,,,,,,,,,"Well, no, right? Because, you know? The scene where Amanohana pees is right there! Focusing on guarding here goes against my aesthetics!"
-288400 ,,,,,,,,,,,,,,,,,,,,"So, it's bad for Amanohana-chan, but I'm abandoning my lookout duty. I lower my posture and approach the bushes."
-288500 ,,,,,,,,,,,,,,,,,,,,"Tianhua-chan, you said it just now, right? Look carefully, okay? Yeah, Uncle will watch Tianhua-chan pee carefully for you!"
-288600 ,,,,,,,,,,,,,,,,,,,,"After changing jobs to watch over Amanohana-chan's pee, I peeked at the situation from between the gaps in the grass."
+288400 ,,,,,,,,,,,,,,,,,,,,"So, it's bad for Tenka-chan, but I'm abandoning my lookout duty. I lower my posture and approach the bushes."
+288500 ,,,,,,,,,,,,,,,,,,,,"Tenka-chan, you said it just now, right? Look carefully, okay? Yeah, Uncle will watch Tenka-chan pee carefully for you!"
+288600 ,,,,,,,,,,,,,,,,,,,,"After changing jobs to watch over Tenka-chan's pee, I peeked at the situation from between the gaps in the grass."
 288800 ,,<!scene_h_begin>,13,,3100000,,,,,,,,,,,,,,,
 288900 ,*mem,,,,3100000,,,,,,,,,,,,,,,
 289000 ,,,13,,3100000,,ålŒö,ƒ–¼„,,,,,,,,,,,,Ohhhh\
-289100 ,,,,,3100000,,,,,,,,,,,,,,,"The voice almost slipped out, so I hurriedly covered my mouth. If I made a sound here and got noticed by Amanohana-chan, it would be all over."
-289200 ,,,,,3100000,,,,,,,,,,,,,,,"In the bushes, Amanogawa-chan had pulled her polka-dot bikini bottoms down to just below her knees. Lucky for me, Amanogawa-chan's beautiful pussy was clearly visible from this angle."
+289100 ,,,,,3100000,,,,,,,,,,,,,,,"The voice almost slipped out, so I hurriedly covered my mouth. If I made a sound here and got noticed by Tenka-chan, it would be all over."
+289200 ,,,,,3100000,,,,,,,,,,,,,,,"In the bushes, Amanogawa-chan pulled her polka-dot bikini bottoms down to just below her knees. Lucky for me, Amanogawa-chan's beautiful pussy was clearly visible from this angle."
 289300 ,,,,,3100000,,,,,,,,,,,,,,,It's understandable that you'd let out a sound at such a breathtaking view. It'd be hard to stay silent when shown something like this.
 289400 ,,,,,3100000,,“[‰Ô,“[‰Ô,021_CB12T_t_027.wav,,,,tenka,,0,,,,,Haaaa...
 289500 ,,,,,3100000,,,,,,,,,,,,,,,"Amari-chan seems to be squatting like a country yank, as if she's about to pee."
@@ -2564,7 +2564,7 @@
 289700 ,,,,,3100000,,,,,,,,,,,,,,,"My pants are also getting wet from excitement over Sweet Flower-chan's adorable little pussy. Now, pee is going to come out from that tiny flower petal, isn't it?"
 289800 ,,,,,3100000,,,,,,,,,,,,,,,"However, the urine doesn't seem to come out from between Sweetflower-chan's legs no matter what."
 289900 ,,,,,3100000,,,,,,,,,,,,,,,"You seemed like you were about to spill the beans, saying it was beyond your limit, but are you still hesitating?"
-290000 ,,,,,3100000,,,,,,,,,,,,,,,"Amanohana-chan is a girl who grew up in the city, unlike Chi-chan or Komako-chan. From the conversation just now, it seems that peeing in the wild is her first experience."
+290000 ,,,,,3100000,,,,,,,,,,,,,,,"Tenka-chan is a girl who grew up in the city, unlike Chi-chan or Komako-chan. From the conversation just now, it seems that peeing in the wild is her first experience."
 290100 ,,,,,3100000,,,,,,,,,,,,,,,"Even if you know no one is watching, and even if you know there's no other way, there must be some internal conflict within yourself."
 290200 ,,,,,3100000,,,,,,,,,,,,,,,I'm sure Amachan's pride won't just let her forgive something as trivial as that.
 290300 ,,,,,3100000,,“[‰Ô,“[‰Ô,021_CB12T_t_028.wav,,,,tenka,,0,,,,,Kuuu...
@@ -2576,7 +2576,7 @@
 291000 ,,,,,3100000,,,,,,,,,,,,,,,"The outbreak of the First Wild Ass War. And if that war doesn't end soon, my penis is going to explode."
 291100 ,,,,,3100000,,,,,,,,,,,,,,,"Hang in there, Amanogawa. There's nothing to be afraid of with a wild pee."
 291200 ,,,,,3100000,,,,,,,,,,,,,,,"When humans were born, there were no toilets, so it's only natural that taking a piss in the wild is the true form a toilet should take!"
-291300 ,,,,,3100000,,,,,,,,,,,,,,,"To cheer up Amanohana-chan, I send her my best encouragement in my mind."
+291300 ,,,,,3100000,,,,,,,,,,,,,,,"To cheer up Tenka-chan, I send her my best encouragement in my mind."
 291400 ,,,,,3100000,,,,,,,,,,,,,,,And finally...
 291600 ,,<!se_piss>,,,3100010,,,,,,,,,,,,,,,"drip, drip, drip, drip, drip, drip, drip"
 291700 ,,,,,3100010,,,,,,,,,,,,,,,Golden Water.
@@ -2587,12 +2587,12 @@
 292200 ,,,,,3100010,,,,,,,,,,,,,,,"Come on, that can't be right. Even girls should be able to pee with a bit more force."
 292300 ,,,,,3100010,,“[‰Ô,“[‰Ô,021_CB12T_t_030.wav,,,,tenka,,0,,,,,"Doesn't sound like the old man can hear it, does it?"
 292400 ,,,,,3100010,,,,,,,,,,,,,,,"Ohhhh... Maybe Amakagura-chan doesn't want me to hear the sound, so she's intentionally suppressing the output to avoid making noise."
-292500 ,,,,,3100010,,,,,,,,,,,,,,,"While thinking that the expression ''suppressing output to pee'' was odd, my gaze was fixed on Amanohana-chan."
+292500 ,,,,,3100010,,,,,,,,,,,,,,,"While thinking that the expression ''suppressing output to pee'' was odd, my gaze was fixed on Tenka-chan."
 292600 ,,,,,3100010,,,,,,,,,,,,,,,"As for Amanohana, you don't have to hold back. I've already gone beyond just listening to the sounds\now I'm even peeking at her while she's peeing."
 292700 ,,,,,3100010,,,,,,,,,,,,,,,"If you want, you can splash me with such force that the spray reaches me. No, please do! Amachan! Please pee over here!"
-292800 ,,,,,3100010,,,,,,,,,,,,,,,"I tried sending a message to Amanohana-chan in a way like ''Please look this way,'' but her usual trickle of pee kept coming out as usual."
+292800 ,,,,,3100010,,,,,,,,,,,,,,,"I tried sending a message to Tenka-chan in a way like ''Please look this way,'' but her usual trickle of pee kept coming out as usual."
 292900 ,,,,,3100010,,“[‰Ô,“[‰Ô,021_CB12T_t_031.wav,,,,tenka,,0,,,,,Haaaa...... uuuhhh...... I can't hold it anymore......
-293000 ,,,,,3100010,,,,,,,,,,,,,,,"While peeing, Amanohana-chan mumbled like a delirious whisper."
+293000 ,,,,,3100010,,,,,,,,,,,,,,,"While peeing, Tenka-chan mumbled like a delirious whisper."
 293100 ,,,,,3100010,,,,,,,,,,,,,,,I can't stand it anymore\what can't I stand? I've already peed... but maybe my pussy is aching or something!?
 293200 ,,,,,3100010,,“[‰Ô,“[‰Ô,021_CB12T_t_032.wav,,,,tenka,,0,,,,,"Uh, just a little bit more... can't I let it out...?"
 293300 ,,,,,3100010,,,,,,,,,,,,,,,...s-s-s-s-s
@@ -2603,25 +2603,25 @@
 293800 ,,,,,3100010,,,,,,,,,,,,,,,"When it comes to peeing, there are times when you really want to go but it just comes out in a trickle, and it's so frustrating, right?"
 293900 ,,,,,3100010,,,,,,,,,,,,,,,"For example, if you have to pee while in an erect state, you have to be careful because the urine might spray in unintended directions."
 294000 ,,,,,3100010,,,,,,,,,,,,,,,"And yet, if my bladder is full, I really want to go, but I can only go a little at a time, which feels awful."
-294100 ,,,,,3100010,,,,,,,,,,,,,,,"Probably, Amanohana-chan also felt that way."
+294100 ,,,,,3100010,,,,,,,,,,,,,,,"Probably, Tenka-chan also felt that way."
 294200 ,,,,,3100010,,“[‰Ô,“[‰Ô,021_CB12T_t_033.wav,,,,tenka,,0,,,,,Uuuu... I hope it ends soon...
-294300 ,,,,,3100010,,,,,,,,,,,,,,,"It seems like you've accumulated quite a bit of urine, and the flow just won't let up. The dripping golden liquid flows like it might be some kind of eternal, never-drying water from the depths of the mountains or something."
+294300 ,,,,,3100010,,,,,,,,,,,,,,,"It seems like you've accumulated alot of urine, and the flow just won't stop. The dripping golden liquid flows like it might be some kind of never-drying water from the depths of the mountains."
 294400 ,,,,,3100010,,,,,,,,,,,,,,,"Even if it's not in the mountains, for me, Amakagiri-chan's pee is like holy water that isn't so holy!"
-294500 ,,,,,3100010,,,,,,,,,,,,,,,The endless stream of pee gushing from Omanko's crotch was forming a yellow puddle between the legs of Amanohana-chan.
+294500 ,,,,,3100010,,,,,,,,,,,,,,,The endless stream of pee gushing from Omanko's crotch was forming a yellow puddle between the legs of Tenka-chan.
 294600 ,,,,,3100010,,“[‰Ô,“[‰Ô,021_CB12T_t_034.wav,,,,tenka,,0,,,,,I should have gone to the bathroom before leaving home...
-294700 ,,,,,3100010,,,,,,,,,,,,,,,"Hearing the melancholic yet sweet murmurs of Amanohana-chan, all I can do is feel gratitude."
+294700 ,,,,,3100010,,,,,,,,,,,,,,,"Hearing the melancholic yet sweet murmurs of Tenka-chan, all I can do is feel gratitude."
 294800 ,,,,,3100010,,,,,,,,,,,,,,,"Thanks to you coming to play without going to the toilet, I can watch Amana-chan's pee."
 294900 ,,,,,3100010,,,,,,,,,,,,,,,"Because I'm squatting to pee, a few drops of golden liquid also spread toward my ass. It sparkled as it caught the light of the midsummer sun."
 295000 ,,,,,3100010,,,,,,,,,,,,,,,Ah... summer has come again this year.
 295100 ,,,,,3100010,,,,,,,,,,,,,,,I let my thoughts wander to the golden droplets of water.
 295200 ,,,,,3100010,,“[‰Ô,“[‰Ô,021_CB12T_t_035.wav,,,,tenka,,0,,,,,Huffs... just a little more... huh...
 295300 ,,,,,3100010,,,,,,,,,,,,,,,"Heaving breaths\huffing and puffing. From Amachan, I sense a faintly relieved atmosphere."
-295400 ,,,,,3100010,,,,,,,,,,,,,,,"It feels like it would be a waste to just let it end like this after all, now that I got to see Amanohana-chan's wild side."
+295400 ,,,,,3100010,,,,,,,,,,,,,,,"It feels like it would be a waste to just let it end like this after all, now that I got to see Tenka-chan's wild side."
 295500 ,,,,,3100010,,,,,,,,,,,,,,,"Okay, let's tease Amikachan a little."
 295600 ,,,,,3100010,,ålŒö,ƒ–¼„,,,,,,,,,,,,"Hey, are you done peeing yet?"
 295700 ,,,,,3100010,,,,,,,,,,,,,,,"To avoid being noticed that I'm nearby, carefully pretend to call out to someone."
 295800 ,,,,,3100010,,“[‰Ô,“[‰Ô,021_CB12T_t_036.wav,,,,tenka,,0,,,,,"Hyaa!? O, ojisan!? Doko ni iru no??"
-295900 ,,,,,3100010,,,,,,,,,,,,,,,"Jyobobo... and with her pee still coming out, Amanohana-chan panics and flusters."
+295900 ,,,,,3100010,,,,,,,,,,,,,,,"Jyobobo... and with her pee still coming out, Tenka-chan panics and flusters."
 296000 ,,,,,3100010,,ålŒö,ƒ–¼„,,,,,,,,,,,,It's okay. I'm right next to you. I'll come to you now!
 296100 ,,,,,3100010,,“[‰Ô,“[‰Ô,021_CB12T_t_037.wav,,,,tenka,,0,,,,,"No! No no no! Right now, I'm still peeing, so nooo!"
 296200 ,,,,,3100010,,,,,,,,,,,,,,,"The moment I became aware that I was coming, the force of my pee weakened. Was it already over... or...?"
@@ -2635,11 +2635,11 @@
 297000 ,,,,,3100010,,“[‰Ô,“[‰Ô,021_CB12T_t_040.wav,,,,tenka,,0,,,,,"Wait, that's no good! Uncle, wait for me there!"
 297100 ,,,,,3100010,,ålŒö,ƒ–¼„,,,,,,,,,,,,one-two
 297200 ,,,,,3100010,,“[‰Ô,“[‰Ô,021_CB12T_t_041.wav,,,,tenka,,0,,,,,"Ah, wait......!"
-297300 ,,,,,3100010,,,,,,,,,,,,,,,"Seeing her face turn pale before my eyes, Amanohana-chan."
+297300 ,,,,,3100010,,,,,,,,,,,,,,,"Seeing her face turn pale before my eyes, Tenka-chan."
 297400 ,,,,,3100010,,,,,,,,,,,,,,,"Feeling like it might be bad, the flow of pee suddenly gets stronger. The pee, dripping down in a dripping arc, looks like a golden artistic masterpiece as it flows onto the ground."
-297500 ,,,,,3100010,,,,,,,,,,,,,,,"I see, when I tried to talk to you earlier, the momentum weakened because it was intentionally weakened. Probably because she thought I might be watching, she must have hurried to stop herself from peeing."
-297600 ,,,,,3100010,,,,,,,,,,,,,,,And now it's the other way around. Amanohana-chan is urinating with considerable force. The force is so strong that a large splash of water rises up.
-297700 ,,,,,3100010,,,,,,,,,,,,,,,The splashed urine of the bouncing Amanohana-chan flew right up to where I was peeking.
+297500 ,,,,,3100010,,,,,,,,,,,,,,,"I see, when I tried to talk to you earlier, the momentum weakened. Probably because she thought I might be watching, she must have hurried to stop herself from peeing."
+297600 ,,,,,3100010,,,,,,,,,,,,,,,And now it's the other way around. Tenka-chan is urinating with considerable force. The force is so strong that a large splash of water rises up.
+297700 ,,,,,3100010,,,,,,,,,,,,,,,The splashed urine of the bouncing Tenka-chan flew right up to where I was peeking.
 297800 ,,,,,3100010,,ålŒö,ƒ–¼„,,,,,,,,,,,,Saaaan\shi\ii\go\ooo!
 297900 ,,,,,3100010,,,,,,,,,,,,,,,The merciless countdown continues.
 298000 ,,,,,3100010,,“[‰Ô,“[‰Ô,021_CB12T_t_042.wav,,,,tenka,,0,,,,,"Counting so fast... it's still, still not good enough, okay!? Nnuh..."
@@ -2656,7 +2656,7 @@
 299200 ,,,,,3100020,,,,,,,,,,,,,,,"Because of doing the countdown in such an awkward posture, an incredibly pained voice came out, but Amakana-chan was also in no state to be concerned about that."
 299300 ,,,,,3100020,,,,,,,,,,,,,,,"As I succeeded in licking Tienhua-chan's pee, almost at the same time, Tienhua-chan finally seemed to have stopped peeing."
 299400 ,,,,,3100020,,,,,,,,,,,,,,,"Of course, in the middle of nature without toilet paper, it's not even possible to wipe between your legs. Sweetflower's thighs and buttocks are dripping with urine."
-299500 ,,,,,3100020,,,,,,,,,,,,,,,"Then, Amanohana-chan started putting her swimsuit back on."
+299500 ,,,,,3100020,,,,,,,,,,,,,,,"Then, Tenka-chan started putting her swimsuit back on."
 299700 ,$event_return,,,,,,,,,,,,,,,,,,,
 299800 ,,<!scene_h_end>,4,,,,,,,,,,,,,,,,,"If I stay here, the fact that I was peeking will be exposed. Quickly leave the bushes and then,"
 299900 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,,,,,Juuu!
@@ -2669,17 +2669,17 @@
 300600 ,,,,,,,ålŒö,ƒ–¼„,,,,,tenka,,33,,,,,"Amachan, you have pee on your feet."
 300700 ,,,,,,,,,,,,,tenka,,33,,,,,"I hurriedly put on my swimsuit, so I didn't have the luxury to worry about such things."
 300800 ,,,,,,,“[‰Ô,“[‰Ô,021_CB12T_t_045.wav,,,,tenka,,31,,,,,"No! Uncle, don't look over here!"
-300900 ,,,,,,,,,,,,,tenka,,31,,,,,"When I point and tell her, Amanohana-chan hurriedly covers her thighs with both hands. But if she does that,"
+300900 ,,,,,,,,,,,,,tenka,,31,,,,,"When I point and tell her, Tenka-chan hurriedly covers her thighs with both hands. But if she does that,"
 301000 ,,,,,,,“[‰Ô,“[‰Ô,021_CB12T_t_046.wav,,,,tenka,,16,,,,,Ah... hand...
 301100 ,,,,,,,,,,,,,,,,,,,,"This time, my own hands will get dirty."
 301200 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,,,,,Come wash yourself in the river.
 301300 ,,,,,,,,,,,,,,,,,,,,"I feel a deep sense of nostalgia thinking that the rural environment must be unfamiliar to Amikachan, who grew up in the city."
-301400 ,,,,,,,,,,,,,,,,,,,,"Towa-chan washes her hands with a splashy sound and then splashes water on her crotch and thighs, trying to wash away her urine."
+301400 ,,,,,,,,,,,,,,,,,,,,"Tenka-chan washes her hands with a splashy sound and then splashes water on her crotch and thighs, trying to wash away her urine."
 301500 ,,,,,,,“[‰Ô,“[‰Ô,021_CB12T_t_047.wav,,,,tenka,,12,,,,,I want to take a shower soon...
 301600 ,,,,,,,,,,,,,tenka,,12,,,,,"The girl named Amanohana, who had come up from the river, let her shoulders droop."
 301700 ,,,,,,,ålŒö,ƒ–¼„,,,,,tenka,,12,,,,,"It's okay. The water in this river is clean, you know."
 301800 ,,,,,,,“[‰Ô,“[‰Ô,021_CB12T_t_048.wav,,,,tenka,,13,,,,,Umm...
-301900 ,,,,,,,,,,,,,tenka,,13,,,,,"It seems that the experience of the wild camping trip was quite shocking, and Amanohana-chan seems to have lost her energy."
+301900 ,,,,,,,,,,,,,tenka,,13,,,,,"It seems that the experience of the wild camping trip was quite shocking, and Tenka-chan seems to have lost her energy."
 302000 ,,,,,,,ålŒö,ƒ–¼„,,,,,tenka,,13,,,,,"What should we do? We still have time, but should we leave early?"
 302100 ,,,,,,,“[‰Ô,“[‰Ô,021_CB12T_t_049.wav,,,,tenka,,34,,,,,"But, if you do that, I think Chii and Komako will probably say they want to play more..."
 302200 ,,,,,,,ålŒö,ƒ–¼„,,,,,tenka,,34,,,,,"Yeah, that's right. You just came to play, after all."
@@ -2691,7 +2691,7 @@
 302800 ,,,,,,,ålŒö,ƒ–¼„,,,,,tenka,,3,,,,,What's up? / What's going on? / What's the matter? / What's that?
 302900 ,,,,,,,“[‰Ô,“[‰Ô,021_CB12T_t_052.wav,,,,tenka,,33,,,,,"In the countryside... like, can't you pee in the river or something?"
 303000 ,,,,,,,,,,,,,tenka,,33,,,,,I almost laughed when Amanohana asked me that with an anxious look.
-303100 ,,,,,,,,,,,,,tenka,,33,,,,,But Amanohana-chan's face is all seriousness. I also answer seriously.
+303100 ,,,,,,,,,,,,,tenka,,33,,,,,But Tenka-chan's face is all seriousness. I also answer seriously.
 303200 ,,,,,,,ålŒö,ƒ–¼„,,,,,tenka,,33,,,,,That sounds good. I think that way it won't be inconvenient.
 303300 ,,,,,,,ålŒö,ƒ–¼„,,,,,tenka,,33,,,,,"But Amakagari-chan is a city girl, so it's no wonder she'd be embarrassed. If she's in trouble again because there's no toilet, I'll keep watch for her."
 303400 ,,,,,,,,,,,,,tenka,,33,,,,,"I myself think it was quite a nice follow-up. If I say it like this, maybe I can peek at Amakagari-chan's wild pee again."
@@ -2707,13 +2707,13 @@
 305100 ,,,,,,,çŒb,çŒb,022_CB13_c_000.wav,,,,"chie,privateC",,5,,,,",I wanted to play a little more... It was such a fun water activity."
 305200 ,,,,,,,ålŒö,ƒ–¼„,,,,,chie,,5,,,,,"I wanted to do that too, but I promised moms, you know..."
 305300 ,,,,,,,,,,,,,chie,,5,,,,,"It was agreed that I would return before sunset, so there's no choice."
-305400 ,,,,,,,,,,,,,chie,,5,,,,,"Actually, I also wanted to stare at Chii-chan's, Komako-chan's, and Amanohana-chan's swimsuits for a long time!"
+305400 ,,,,,,,,,,,,,chie,,5,,,,,"Actually, I also wanted to stare at Chii-chan's, Komako-chan's, and Tenka-chan's swimsuits for a long time!"
 305500 ,,,,,,,,,,,,,chie,,5,,,,,"But, there's no way around it... Please forgive me, everyone."
 305600 ,,<se_stop id=""1"" fadeout=""8000"">,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,022_CB13_k_000.wav,"komako,privateB",,14,,,,,,,",Ughhhh... maybe I'm a little tired..."
 305700 ,,,,,,,,,,komako,,14,,,,,,,,Komako-chan lets out a big yawn.
 305800 ,,,,,,,,,,komako,,14,,,,,,,,"It's true that I played that much. Getting tired is only natural, isn't it?"
 305900 ,,,,,,,“[‰Ô,“[‰Ô,022_CB13_t_000.wav,,,,,,,"tenka,privateC",,12,",'Well, I guess. It's been a while since I've swum so much, and I'm... *yawns*...'"
-306000 ,,,,,,,,,,,,,,,,tenka,,12,,"Amidun, Amanohana-chan also yawns."
+306000 ,,,,,,,,,,,,,,,,tenka,,12,,"Amidun, Tenka-chan also yawns."
 306100 ,,,,,,,çŒb,çŒb,022_CB13_c_001.wav,,,,chie,,17,,,,,If you were told that... maybe Chii-chan is getting sleepy too...
 306200 ,,,,,,,,,,,,,chie,,17,,,,,"Everyone looks tired. I guess I got too excited, and now my body feels sluggish."
 306300 ,,,,,,,çŒb,çŒb,022_CB13_c_002.wav,,,,"chieL,privateC",,25,,,,",'Hey hey~, Uncle. Give me a piggyback ride, okay? Chi-chan is tired too!'"
@@ -2777,9 +2777,9 @@
 312300 ,,,,,,,“[‰Ô,“[‰Ô,022_CB13_t_002.wav,,,,chie,,24,tenka,,3,,"Hey, don't stop\keep walking. I'm gonna leave you behind!"
 312400 ,,,,,,,,,,,,,chie,,24,tenka,,3,,She went ahead with a leisurely stride.
 312500 ,,,,,,,çŒb,çŒb,022_CB13_c_013.wav,,,,chie,,25,tenka,,3,,"Muuuuu! Wait, wait! Don't leave me behind\!"
-312600 ,,,,,,,,,,,,,chie,,25,tenka,,3,,Chii-chan runs after Amanohana-chan.
+312600 ,,,,,,,,,,,,,chie,,25,tenka,,3,,Chii-chan runs after Tenka-chan.
 312700 ,,,,,,,“[‰Ô,“[‰Ô,022_CB13_t_003.wav,,,,chie,,25,tenka,,32,,"Don't wait! Come on, hurry up!"
-312800 ,,,,,,,,,,,,,chie,,25,tenka,,32,,"To avoid being caught by Chi-chan, Amanohana-chan also starts running."
+312800 ,,,,,,,,,,,,,chie,,25,tenka,,32,,"To avoid being caught by Chi-chan, Tenka-chan also starts running."
 312900 ,,,,,,,ƒRƒ}ƒR,ƒRƒ}ƒR,022_CB13_k_010.wav,komako,,4,,,,,,,,A...... I'll wait too......!
 313000 ,,,,,,,,,,komako,,4,,,,,,,,"I started running after Komako-chan, who had dashed out last of all."
 313200 ,,<!move_long>,,12,,,çŒb,çŒb,022_CB13_c_014.wav,,,,chie,,34,,,,,Phew\took a while!
@@ -2803,7 +2803,7 @@
 315100 ,,,,,,,,,,,,,,,,,,,,I watch until the backs of the three disappear from view.
 315200 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,,,,,...Okay.
 315300 ,,,,,,,,,,,,,,,,,,,,Now I have three cups in my hands.
-315400 ,,,,,,,,,,,,,,,,,,,,"The one on the left is Chi-chan's cup, the one in the middle is Amanohana-chan's. The one on the right should be Komako-chan's cup. Make sure to remember it well."
+315400 ,,,,,,,,,,,,,,,,,,,,"The one on the left is Chi-chan's cup, the one in the middle is Tenka-chan's. The one on the right should be Komako-chan's cup. Make sure to remember it well."
 315500 ,,,,,,,,,,,,,,,,,,,,I wonder how to use this cup...
 315600 ,,,,,,,,,,,,,,,,,,,,I returned home while thinking about ideas for masturbation.
 315800 ,,<!move_middle_r>,5,33,,,,,,,,,,,,,,,,Hahaha... today was the best day ever...
@@ -2821,7 +2821,7 @@
 317300 ,,,,,,,,,,komakoL,,1,,,,,,,,"Hmm, it's hard to say which is better."
 317400 ,,,,,,,,,,komakoL,,1,,,,,,,,"I want to rub my ramune stick against that shiny hair of yours, scrub it back and forth, and then shoot all over it to dirty it up."
 317500 ,,,,,,,,,,komakoL,,1,,,,,,,,"Today, should I blow off that fantasy...? Wait, no...?"
-317700 ,,<s_fade time=""1400"" type=""shadeoff"" param=""type=b"">,,,,,,,,,,,,,,"tenkaL,swim",,0,",'In that regard, Amanohana-chan isn't losing either, is she?'"
+317700 ,,<s_fade time=""1400"" type=""shadeoff"" param=""type=b"">,,,,,,,,,,,,,,"tenkaL,swim",,0,",'In that regard, Tenka-chan isn't losing either, is she?'"
 317800 ,,,,,,,,,,,,,,,,tenkaL,,20,,That glossy black hair must feel so good to touch.
 317900 ,,,,,,,,,,,,,,,,tenkaL,,21,,"Rubbing it against that... ah, just imagining it makes me want to cum already..."
 318000 ,,,,,,,,,,,,,,,,tenkaL,,1,,"The swimsuit was so cute, huh? City kids really do have a different flavor to them."
@@ -2849,7 +2849,7 @@
 320000 ,,<s_fade time=""1000"" type=""shadeoff"" param=""type=b"">,,33,,,,,,,,,,,,,,,,"So, let's vote for Chi-chan!"
 320100 ,,,,,,,,,,,,,,,,,,,,"''Sayama Chie'' and... okay, that's it, voting is complete."
 320200 ,,,,,,,,,,,,,,,,,,,,"But, Chi-chan is the center, huh? It seems like she'll pull things along forcefully, but she might not hold together well, huh?"
-320300 ,,,,,,,,,,,,,,,,,,,,"But, if Komako-chan or Amanohana-chan support it, it should be fine, right!"
+320300 ,,,,,,,,,,,,,,,,,,,,"But, if Komako-chan or Tenka-chan support it, it should be fine, right!"
 320400 ,,,,,,,,,,,,,,,,,,,,"Yeah, yeah, Chichan is definitely the center!"
 320500 ,,,,,,,,,,,,,,,,,,,,"Even if I say that, my vote probably won't change the outcome anyway."
 320600 ,,,,,,,,,,,,,,,,,,,,I just support Chichan a little bit. That's it. Just that.
@@ -2869,7 +2869,7 @@
 322300 ,,<s_fade time=""1000"" type=""shadeoff"" param=""type=b"">,,33,,,,,,,,,,,,,,,,"So, let's vote for Komako-chan!"
 322400 ,,,,,,,,,,,,,,,,,,,,"''Komako Semenovich'' and... yes, okay!"
 322500 ,,,,,,,,,,,,,,,,,,,,"Of course, my single vote might not decide it. But since Komako-chan is my favorite candidate..."
-322600 ,,,,,,,,,,,,,,,,,,,,"It doesn't seem like they're very good at talking much, but I think Chi-chan and Tianhua-chan can support them in that area...."
+322600 ,,,,,,,,,,,,,,,,,,,,"It doesn't seem like they're very good at talking much, but I think Chi-chan and Tenka-chan can support them in that area...."
 322700 ,,,,,,,,,,,,,,,,,,,,"Yeah, yeah, it should be fine, right? No matter what, Komako-chan is the type who gets things done when she puts her mind to it!"
 322800 ,,,,,,,,,,,,,,,,,,,,"Well, even so, Komako-chan was so cute today, huh..."
 322900 ,,,,,,,,,,,,,,,,,,,,"Foreigners really do have beautiful skin, don't they? Like a doll's..."
@@ -2879,20 +2879,20 @@
 323300 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,,,,,Hmph... hmph...
 323400 ,,,,,,,,,,,,,,,,,,,,"If things keep going like this, I could probably do a hundred of these! Today, I'll go all out with Komako-chan and pull her off!"
 323600 ,$go join_1,,,,,,,,,,,,,,,,,,,
-323700 ,*sel_1c,,,,,,,,,,,,,,,,,,,Vote for Amanohana-chan.
+323700 ,*sel_1c,,,,,,,,,,,,,,,,,,,Vote for Tenka-chan.
 323800 ,"$fadd %tenka%,1",,,,,,,,,,,,,,,,,,","
-324000 ,,<s_fade time=""1400"" type=""shadeoff"" param=""type=b"">,,101,,,,,,,,,,,,tenkaL,,0,,"After all, when it comes to idols, it's still Amanohana-chan, right?"
+324000 ,,<s_fade time=""1400"" type=""shadeoff"" param=""type=b"">,,101,,,,,,,,,,,,tenkaL,,0,,"After all, when it comes to idols, it's still Tenka-chan, right?"
 324100 ,,,,,,,,,,,,,,,,tenkaL,,0,,She's working so hard like that. It would be sad if she wasn't rewarded for it.
-324200 ,,,,,,,,,,,,,,,,tenkaL,,0,,"And besides, today's Amanohana-chan was cute... but still, the center should be a little more mature, right? After all, she's the one who brings everyone together."
-324400 ,,<s_fade time=""1000"" type=""shadeoff"" param=""type=b"">,,33,,,,,,,,,,,,,,,,"So, let's vote for Amanohana-chan!"
+324200 ,,,,,,,,,,,,,,,,tenkaL,,0,,"And besides, today's Tenka-chan was cute... but still, the center should be a little more mature, right? After all, she's the one who brings everyone together."
+324400 ,,<s_fade time=""1000"" type=""shadeoff"" param=""type=b"">,,33,,,,,,,,,,,,,,,,"So, let's vote for Tenka-chan!"
 324500 ,,,,,,,,,,,,,,,,,,,,"''Adachi Amanoka'' ... yeah yeah ... this should be fine, right?"
-324600 ,,,,,,,,,,,,,,,,,,,,"I'm the number one fan of Amanohana-chan, so of course it's only right that I vote for Amanohana-chan."
-324700 ,,,,,,,,,,,,,,,,,,,,Amanohana-chan is reliable and seems like she'll lead everyone forward.
+324600 ,,,,,,,,,,,,,,,,,,,,"I'm the number one fan of Tenka-chan, so of course it's only right that I vote for Tenka-chan."
+324700 ,,,,,,,,,,,,,,,,,,,,Tenka-chan is reliable and seems like she'll lead everyone forward.
 324800 ,,,,,,,,,,,,,,,,,,,,"Promotion activities too... yeah, I worked hard on them!"
 324900 ,,,,,,,,,,,,,,,,,,,,"Well, that method was a bit over the top, or maybe even a bit underhanded, but I guess it's just one way to get things done. Yeah, I mean, it's Amakagura-chan after all!"
 325000 ,,,,,,,,,,,,,,,,,,,,"That feeling of not choosing that method... is one of Sweet Flower's charms, maybe?"
-325100 ,,,,,,,,,,,,,,,,,,,,"Yeah, yeah, it's definitely Amanohana-chan. With her, ''DG548'' is sure to be a huge success!"
-325200 ,,,,,,,,,,,,,,,,,,,,The idol group led by Amanohana-chan... its producer is me... teaching her all sorts of things step by step...
+325100 ,,,,,,,,,,,,,,,,,,,,"Yeah, yeah, it's definitely Tenka-chan. With her, ''DG548'' is sure to be a huge success!"
+325200 ,,,,,,,,,,,,,,,,,,,,The idol group led by Tenka-chan... its producer is me... teaching her all sorts of things step by step...
 325300 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,,,,,Huh... huh huh huh...
 325400 ,,,,,,,,,,,,,,,,,,,,I feel like I'm getting motivated! Let's hurry up and advance the vote-counting work!
 325500 ,,,,,,,,,,,,,,,,,,,,"No, it's not like I'm especially favoring Amanogawa-chan. I just... well, I'm just making Amanogawa-chan my bias for a little while, that's all."
@@ -2905,7 +2905,7 @@
 326200 ,,,,,,,ålŒö,ƒ–¼„,,,,,,,,,,,,...Ugh!!
 326300 ,,,,,,,,,,,,,,,,,,,,Oh no!? I got too excited and already came on the first try....
 326400 ,,,,,,,,,,,,,,,,,,,,"Today, your son is still quite energetic, huh? I think he might be able to handle two or three more hits, maybe?"
-326500 ,,,,,,,,,,,,,,,,,,,,"Amanohana-chan... today, I'll let you be the topic of my onanete... hehehe..."
+326500 ,,,,,,,,,,,,,,,,,,,,"Tenka-chan... today, I'll let you be the topic of my onanete... hehehe..."
 326700 ,$go join_1,,,,,,,,,,,,,,,,,,,
 326800 ,*sel_1d,,,,,,,,,,,,,,,,,,,You can't pick anyone. Everyone gets a vote!
 326900 ,"$fadd %chie%,1",,,,,,,,,,,,,,,,,,","
@@ -2915,7 +2915,7 @@
 327400 ,,,,,4220000,,,,,komako,,21,chie,,1,tenka,,0,,"Well, no, I'm not exactly picking someone in a swimsuit or anything!"
 327500 ,,,,,4220000,,,,,komako,,21,chie,,1,tenka,,0,,"But still, the alluring appearance of a girl, such as her swimsuit look, is probably one of the important elements of the center."
 327600 ,,,,,4220000,,,,,komako,,21,chie,,1,tenka,,0,,So... uuuuuhhhh. I still can't choose...!
-327700 ,,,,,4220000,,,,,komako,,21,chie,,1,tenka,,0,,"Chi-chan and Komako-chan and Amanohana-chan are all different, but each of them has something wonderful, you know."
+327700 ,,,,,4220000,,,,,komako,,21,chie,,1,tenka,,0,,"Chi-chan and Komako-chan and Tenka-chan are all different, but each of them has something wonderful, you know."
 327800 ,,,,,4220000,,,,,komako,,21,chie,,1,tenka,,0,,To narrow it down to just one person is just too cruel!...
 327900 ,,,,,4220000,,,,,komako,,21,chie,,1,tenka,,0,,"My pushi-men is...... everyone! So, I'll put one vote in each person!"
 328000 ,,,,,4220000,,,,,komako,,21,chie,,1,tenka,,0,,"This way, it's fair, and the rankings won't change. As an idol producer, fairness is essential!"
@@ -2946,7 +2946,7 @@
 330700 ,,<!timepass_short>,,,,,,,,,,,,,,,,,,......heh...... I'm satisfied...... I got carried away and jerked off several times.
 330800 ,,,,,,,,,,,,,,,,,,,,"I don't remember how many times I've done it anymore... I overdid it a little, and my son's back hurts..."
 330900 ,,,,,,,,,,,,,,,,,,,,"But, it's been a while since I've had such a good handjob... Maybe the rumor was true that the freshness of the material changes the sensitivity of the handjob."
-331000 ,,,,,,,,,,,,,,,,,,,,"Chi-chan... Komako-chan... Amanohana-chan... ugh, it's bad... maybe it's still not enough..."
+331000 ,,,,,,,,,,,,,,,,,,,,"Chi-chan... Komako-chan... Tenka-chan... ugh, it's bad... maybe it's still not enough..."
 331100 ,,,,,,,,,,,,,,,,,,,,"Ballot counting can be done even if you wake up, right? Yeah, it should be possible. I mean, there aren't that many of them..."
 331200 ,,,,,,,,,,,,,,,,,,,,"Right now, my mood is really high, so I feel like I want to jerk off..."
 331300 ,,,,,,,,,,,,,,,,,,,,"--- Alright! Today is all about jerking off! Even if my pussy hurts, I won't stop!"

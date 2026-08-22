@@ -1,36 +1,36 @@
 %no%,%filename%,%info%
-11,bg/bg01a.png,駄菓子屋外観
-12,bg/bg01b.png,駄菓子屋外観　：夕方
-14,bg/bg01d.png,駄菓子屋外観　：夜(消灯)
-15,bg/bg01e.png,駄菓子屋外観　：雨(昼)
-21,bg/bg02a.png,駄菓子屋店内
-22,bg/bg02b.png,駄菓子屋店内　：夕方
-23,bg/bg02c.png,駄菓子屋店内　：夜
-31,bg/bg03a.png,駄菓子屋休憩部屋（主人公の部屋）
-32,bg/bg03b.png,駄菓子屋休憩部屋（主人公の部屋）　：夕方
-33,bg/bg03c.png,駄菓子屋休憩部屋（主人公の部屋）　：夜
-34,bg/bg03d.png,駄菓子屋休憩部屋（主人公の部屋）　：夜(消灯)
-35,bg/bg03e.png,駄菓子屋休憩部屋（主人公の部屋）　：雨(昼)
-41,bg/bg04a.png,駄菓子屋休憩部屋2（主人公の部屋）
-42,bg/bg04b.png,駄菓子屋休憩部屋2（主人公の部屋）　：夕方
-43,bg/bg04c.png,駄菓子屋休憩部屋2（主人公の部屋）　：夜
-51,bg/bg05a.png,駄菓子屋トイレ
-53,bg/bg05c.png,駄菓子屋トイレ　：夜
-61,bg/bg06a.png,駄菓子屋脱衣所
-63,bg/bg06c.png,駄菓子屋脱衣所　：夜
-65,bg/bg06e.png,駄菓子屋脱衣所　：雨(昼)
-71,bg/bg07a.png,駄菓子屋お風呂
-73,bg/bg07c.png,駄菓子屋お風呂　：夜
-75,bg/bg07e.png,駄菓子屋お風呂　：雨(昼)
-101,bg/bg10a.png,河原全景
-111,bg/bg11a.png,道路1
-112,bg/bg11b.png,道路1　：夕方
-121,bg/bg12a.png,道路2
-122,bg/bg12b.png,道路2　：夕方
-131,bg/bg13a.png,道路3（空き地）
-132,bg/bg13b.png,道路3（空き地）　：夕方
-201,bg/bg20a.png,ショッピングモールエントランス
-211,bg/bg21a.png,ショッピングモール内雑貨屋
-9000,bg/b.png,黒
-9001,bg/w.png,白
+11,bg/bg01a.png,Exterior of Dagashiya Shop
+12,bg/bg01b.png,Exterior of Dagashiya Shop　：Evening
+14,bg/bg01d.png,Exterior of Dagashiya Shop　：Night(Lights Off)
+15,bg/bg01e.png,Exterior of Dagashiya Shop　：Rain (Day)
+21,bg/bg02a.png,Inside the Dagashiya Shop
+22,bg/bg02b.png,Inside the Dagashiya Shop　：Evening
+23,bg/bg02c.png,Inside the Dagashiya Shop　：Night
+31,bg/bg03a.png,Break Room（Protagonist's Room）
+32,bg/bg03b.png,Break Room（Protagonist's Room）　：Evening
+33,bg/bg03c.png,Break Room（Protagonist's Room）　：Night
+34,bg/bg03d.png,Break Room（Protagonist's Room）　：Night(Lights Off)
+35,bg/bg03e.png,Break Room（Protagonist's Room）　：Rain(Day)
+41,bg/bg04a.png,Break Room2（Protagonist's Room）
+42,bg/bg04b.png,Break Room2（Protagonist's Room）　：Evening
+43,bg/bg04c.png,Break Room2（Protagonist's Room）　：Night
+51,bg/bg05a.png,Toilet / Restroom
+53,bg/bg05c.png,Toilet / Restroom　：Night
+61,bg/bg06a.png,Changing Room
+63,bg/bg06c.png,Changing Room　：Night
+65,bg/bg06e.png,Changing Room　：Rain (Day)
+71,bg/bg07a.png,Bathroom / Bathtub Area
+73,bg/bg07c.png,Bathroom / Bathtub Area　：Night
+75,bg/bg07e.png,Bathroom / Bathtub Area　：Rain (Day)
+101,bg/bg10a.png,Riverside Panorama
+111,bg/bg11a.png,Road1
+112,bg/bg11b.png,Road1　：Evening
+121,bg/bg12a.png,Road2
+122,bg/bg12b.png,Road2　：Evening
+131,bg/bg13a.png,Road3（Vacant Lot）
+132,bg/bg13b.png,Road3（Vacant Lot）　：Evening
+201,bg/bg20a.png,Shopping Mall Entrance
+211,bg/bg21a.png,General Store inside Shopping Mall
+9000,bg/b.png,Black
+9001,bg/w.png,White
 
